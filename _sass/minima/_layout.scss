@@ -297,3 +297,12 @@
   @include relative-font-size(0.9);
   padding-bottom: 0;
 }
+
+.footnotes {
+  @include relative-font-size(0.9);
+  margin: $spacing-unit;
+  padding-top: $spacing-unit * 1;
+  border-style: solid hidden hidden hidden;
+  border-width: 1px;
+  border-color: $grey-color;
+}

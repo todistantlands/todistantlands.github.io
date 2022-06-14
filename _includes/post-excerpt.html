@@ -1,0 +1,27 @@
+
+	<h1 class = "post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+	  <p class="author">
+		<span class="meta">{{ post.date | date: "%e %b %Y" }}</span>
+	  </p>
+	  {%- assign dateCheck = post.date | date: "%s" | minus: cutoff -%}
+	  {%- if dateCheck <= 0 -%}
+		{%- if post.content contains "<a name='more'></a>" -%}
+			{%- assign myExcerpt = post.content | split: "<a name='more'></a>" | first -%}
+		{%- elsif post.content contains "</p>" -%}
+			{%- assign myExcerpt = post.content | split: "</p>" | first -%}
+		{%- elsif post.content contains "<br />" -%}
+			{%- assign myExcerpt = post.content | split: "<br />" | first -%}
+		{%- else -%}
+			{%- assign myExcerpt = "" -%}
+		{%- endif -%}
+	  {%- else -%}
+		{%- assign myExcerpt = post.excerpt -%}
+	  {%- endif -%}
+	  <p>{{ myExcerpt }}</p>
+	  <div class="permalink"><a class href="{{ post.url }}">
+	  {%- if post.content.size > myExcerpt.size -%}
+	    Read more...
+	  {%- else -%}
+		Permalink
+	  {%- endif -%}
+	  </a></div>

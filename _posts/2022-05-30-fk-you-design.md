@@ -27,7 +27,5 @@ It doesn't bring me any joy to dunk on other people's work like this, and especi
 
 - 2022-05-31: Added footnote 2 and clarification in final paragraph re: authorial intent.
 
------
-
 [^1]: As a working definition, please regard this as non-exhaustive and instrumental to the present argument, rather than a complete theory of design.
 [^2]: Or, since the last thing I want is for this post to turn into a conversation about RPG monetization ethics, let's just say you "get" or "have" a car.

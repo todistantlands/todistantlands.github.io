@@ -22,7 +22,7 @@ title: To Distant Lands
 email:
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://todistantlands.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ideo_sissy
 github_username:  todistantlands
 blogger_cutoff: April 1 2022

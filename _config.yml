@@ -28,6 +28,7 @@ github_username:  todistantlands
 blogger_cutoff: April 1 2022
 
 # Build settings
+environment: production
 theme: minima
 plugins:
   - jekyll-feed

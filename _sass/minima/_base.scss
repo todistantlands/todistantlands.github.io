@@ -257,9 +257,8 @@ table {
  * Horizontal rules
  */
  hr {
-	height: 1px;
-	border-width: 0;
-	color:gray;
-	background-color:gray;
-	margin: auto;
+  margin: $spacing-unit;
+  border-width: 0px;
+  height: 0.5px;
+  background-color: $grey-color;
  }

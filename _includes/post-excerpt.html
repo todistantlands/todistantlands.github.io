@@ -24,10 +24,10 @@
 		{%- assign myExcerpt = myExcerpt | join: myLink -%}
 	  {%- endif -%}
 	  <p>{{ myExcerpt }}</p>
-	  <div class="permalink"><a class href="{{ post.url }}">
+	  <div class="permalink"><a href="{{ post.url }}">
 	  {%- if post.content.size > myExcerpt.size -%}
 	    Read more...
 	  {%- else -%}
 		Permalink
 	  {%- endif -%}
-	  </a></div>
+	  </a> | <a href="{{ post.url }}/#disqus_thread">Comments</a></div>

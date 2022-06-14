@@ -17,6 +17,12 @@
 	  {%- else -%}
 		{%- assign myExcerpt = post.excerpt -%}
 	  {%- endif -%}
+	  {%- if myExcerpt contains "<div class="footnotes" role="doc-endnotes">" -%}
+		{%- assign myExcerpt = myExcerpt | split: "<div class="footnotes" role="doc-endnotes"> | first %}
+		{%- assign myExcerpt = myExcerpt | split: "#fn:" -%}
+		{%- assign myLink = post.url | append: "#fn:" -%}
+		{%- assign myExcerpt = myExcerpt | join: myLink -%}
+	  {%- endif -%}
 	  <p>{{ myExcerpt }}</p>
 	  <div class="permalink"><a class href="{{ post.url }}">
 	  {%- if post.content.size > myExcerpt.size -%}

@@ -3,12 +3,13 @@ layout: post
 title: F**k-you is a Writing Concept
 tags: [theory, rants]
 share: true
+excerpt_separator: <!--more-->
 ---
 # "F\*\*k-you" is a Writing Concept
 
 Something very interesting has emerged from the conversation about my post on [fuck-you design](_posts/2022-05-30-fk-you-design.md):
 
-"Fuck-you" isn't a design concept.
+"Fuck-you" isn't a design concept. <!--more-->
 
 Rather, it has to do with the writing strategies employed in communicating the structure of the game, and the assumptions encoded about the reader's familiarity with the game's context and subtext.
 

@@ -5,8 +5,6 @@ tags: [theory, rants]
 share: true
 excerpt_separator: <!--more-->
 ---
-# "F\*\*k-you" is a Writing Concept
-
 Something very interesting has emerged from the conversation about my post on [fuck-you design](_posts/2022-05-30-fk-you-design.md):
 
 "Fuck-you" isn't a design concept. <!--more-->

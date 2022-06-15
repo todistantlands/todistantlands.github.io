@@ -5,7 +5,7 @@ tags: [theory, rants]
 share: true
 excerpt_separator: <!--more-->
 ---
-Something very interesting has emerged from the conversation about my post on [fuck-you design](_posts/2022-05-30-fk-you-design.md):
+Something very interesting has emerged from the conversation about my post on [fuck-you design](https://todistantlands.github.io/2022/05/30/fk-you-design.html):
 
 "Fuck-you" isn't a design concept. <!--more-->
 

@@ -15,6 +15,8 @@ last-update:
 share: true
 ---
 
+
+
 I'm back on this and you can't stop me. Join me as I continue to wade through the refuse of my own thinking.
 
 I spoke with [Jason Tocci](https://pretendo.games/) on Twitter about fuck-you writing (because [fuck-you isn't a design concept](https://todistantlands.github.io/2022/06/15/fk-you-is-a-writing-concept.html)). Jason raised the following question:

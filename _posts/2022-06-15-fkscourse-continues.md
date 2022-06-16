@@ -6,7 +6,7 @@ date: 2022-06-15 20:11:33-04:00
 #
 tags: [theory]
 cover-img: ["/path/to/img" : "Caption"]
-thumbnail-img: "/path/to/img" #"" to disable
+thumbnail-img: "/img/calvinball.png" #"" to disable
 comments: #defaults to true for blog posts
 # documentation at: https://github.com/daattali/beautiful-jekyll#add-your-own-content
 # excerpt-separator: <!--more-->
@@ -57,7 +57,7 @@ I would suggest that, especially in the OSR, our encounters with rules texts are
 
 I think when a lot of us first discovered RPGs, we experienced a kind of awe at just how _open_ they were. You mean I can _do_ something just by _saying_ it? The prospect is both wondrously straightforward and deeply complex. If you don't want a game of complete nonsense, you need to start setting limits and making distinctions about what can be said, when, and how. Things get even messier when you need multiple people to observe those specifications. Thus: Game design. RPG rules [codify and externalize](https://www.necropraxis.com/2022/05/31/towards-objective-prosthetics/) these decisions.
 
-![img](/img/calvinball.png)
+![Panel from *Calvin and Hobbes*. Calvin, a young boy, and his friend Hobbes, an anthropomorphic tiger, are jumping around wearing domino masks. Calvin: "The only permanent rule in Calvinball is that you can't play it the same way twice!" Hobbes: "The score is still Q to 12!"](/img/calvinball.png)
 
 Pictured: A game of complete nonsense, albeit a good one.
 {: .img-caption}

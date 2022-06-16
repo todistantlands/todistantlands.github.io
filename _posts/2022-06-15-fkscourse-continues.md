@@ -57,7 +57,7 @@ I would suggest that, especially in the OSR, our encounters with rules texts are
 
 I think when a lot of us first discovered RPGs, we experienced a kind of awe at just how _open_ they were. You mean I can _do_ something just by _saying_ it? The prospect is both wondrously straightforward and deeply complex. If you don't want a game of complete nonsense, you need to start setting limits and making distinctions about what can be said, when, and how. Things get even messier when you need multiple people to observe those specifications. Thus: Game design. RPG rules [codify and externalize](https://www.necropraxis.com/2022/05/31/towards-objective-prosthetics/) these decisions.
 
-![calvinball.png](calvinball.png)
+![img](/img/calvinball.png)
 Pictured: A game of complete nonsense, albeit a good one.
 {: .img-caption}
 

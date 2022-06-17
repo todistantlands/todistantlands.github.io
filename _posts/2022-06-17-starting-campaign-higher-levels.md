@@ -15,7 +15,7 @@ last-update:
 share: true
 ---
 
-I'm interested in running some old-school D&D with higher-level PCs. A lot of the OSR's knowledge has been derived through analyses of, and practice with, low-level play. My experience running OSR games has been that as PCs reach "mid" levels, say level 5 or so, a lot of the principles that held true through the earlier stages of the game become less effective. The collective wisdom becomes a lot sparser here. This has contributed to my losing confidence and the eventual petering out of more than one campaign.
+I'm interested in running some old-school D&D with higher-level PCs. A lot of the OSR's knowledge has been derived through analyses of, and practice with, low-level play. My experience running OSR games has been that as PCs reach "mid" levels, say level 5 or so, a lot of the principles that held true through the earlier stages of the game become less effective. This has contributed to my losing confidence and the eventual petering out of more than one campaign.
 
 So I figure, hey, maybe just run some modules in that range and see what happens. <!--more-->
 

@@ -3,6 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="og:image" content='{{ site.url }}{{ page.thumbnail-img | default: "/assets/images/banner.gif" }}'>
+  <meta property="twitter:image" content="{{ site.url}}{{ page.twitter-img | default: page.thumbnail-img | default: "/img/twitter-thumb.png" }}">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}

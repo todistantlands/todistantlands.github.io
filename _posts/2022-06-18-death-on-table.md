@@ -16,7 +16,7 @@ Literally!
 
 ![Death tarot card](/img/deathcard.jpg)
 
-The GM would have a Death tarot card face down on the table. At any point (as long as you weren't in the middle of resolving a player action), the GM could turn it face up. As long the death card is showing, any potentially lethal injury that could knock a PC out, kills them. It does not give the GM license to ice a PC out of nowhere, but it signals a ratcheting up of the stakes, and _does_ give the GM permission to bring the hurt than they usually have.
+The GM would have a Death tarot card face down on the table. At any point (as long as you weren't in the middle of resolving a player action), the GM could turn it face up. As long the death card is showing, any potentially lethal injury that could knock a PC out, kills them. It does not give the GM license to ice a PC out of nowhere, but it signals a ratcheting up of the stakes, and _does_ give the GM more permission to bring the hurt than they usually have.
 
 You can compare this with the [2400 games](https://jasontocci.itch.io/2400). These have a similar approach to lethality where the GM has to signal death as a possible outcome before a roll so players can decide whether to accept the risk. The death card does that too but it's a little more playful and introduces deadliness as a quality of an overall situation rather than a specific roll.
 

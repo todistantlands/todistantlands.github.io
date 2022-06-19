@@ -14,7 +14,7 @@ We were working on a game focused on child and adolescent PCs that walked a tigh
 
 Literally!
 
-![Death tarot card](../img/deathcard.jpg)
+![[../img/deathcard.jpg|Death tarot card]]
 
 The GM would have a Death tarot card face down on the table. At any point (as long as you weren't in the middle of resolving a player action), the GM could turn it face up. As long the death card is showing, any potentially lethal injury that could knock a PC out, kills them. It does not give the GM license to ice a PC out of nowhere, but it signals a ratcheting up of the stakes, and _does_ give the GM permission to bring the hurt than they usually have.
 

@@ -27,3 +27,5 @@ Three hogs are half rust monster. This was either another version of the experim
 <hr>
 
 **edit:** some of the hogs got into the alchemy lab. The reagents interacted with their own alchemically-enhanced metabolisms in some dramatic ways. One of them can breathe poison now. Another expanded to fill out the entire lab, where it is now stuck and slowly starving to death.
+
+**Edit 2:** actually the poison one's breath isn't poison, it turns organic materials to gold. This has helped soften much of the wooden furniture, making it easier to eat.

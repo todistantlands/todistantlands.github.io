@@ -5,14 +5,14 @@ subtitle: a dungeon pitch
 date: 2022-06-30 10:55:46-04:00
 #
 tags: [dungeon]
-# excerpt-separator: <!--more-->
+excerpt-separator: <!--more-->
 #
 last-update: 
 share: true
 ---
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">This loud dungeon is found in the ruins of an ancient university, and is inhabited by feisty boars.</p>&mdash; Dungeon Generator (@dungeonerator) <a href="https://twitter.com/dungeonerator/status/1542403360975835136?ref_src=twsrc%5Etfw">June 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-From that twitter bot that generates dungeons.
+Yeah I can work with that: <!--more-->
 
 A university archive once full of texts and books and research implements. Now overrun with huge, nearly immortal hogs.
 

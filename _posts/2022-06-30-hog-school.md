@@ -23,3 +23,7 @@ The hogs multiply rapidly. There are three or four generations living here, and 
 One hog has a magical dagger sticking out of its head. This dagger contains the soul of the famous thief Rolando Nin. Nin's mind now inhabits the hog's body, enjoying the benefits of both.
 
 Three hogs are half rust monster. This was either another version of the experiment that produced the remaining swine, or they have the power to interbreed. Alarming either way.
+
+<hr>
+
+**edit:** some of the hogs got into the alchemy lab. The reagents interacted with their own alchemically-enhanced metabolisms in some dramatic ways. One of them can breathe poison now. Another expanded to fill out the entire lab, where it is now stuck and slowly starving to death.

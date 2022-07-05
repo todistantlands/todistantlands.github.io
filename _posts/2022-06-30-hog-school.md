@@ -3,9 +3,9 @@ layout: post
 title: hog school
 subtitle: a dungeon pitch
 date: 2022-06-30 10:55:46-04:00
+excerpt-separator: <!--more-->
 #
 tags: [dungeon]
-excerpt-separator: <!--more-->
 #
 last-update: 
 share: true

@@ -12,8 +12,10 @@ share: true
 ---
 Last night I ran a session of [Chris McDowall's playtest of Primeval Bastionland](https://www.bastionland.com/2022/07/primeval-bastionland-playtest.html). In the name of science I'll share a summary of the session here. Since we might play more, I'm going to put GM-facing information that players may wish to avoid in spoiler boxes like this one:
 
-> [!Spoiler]- GM Notes
-> See, like this!
+<details>
+ <summary>GM Notes</summary>
+ <p>See, like this!</p>
+ </details>
 
 ## Dramatis Personae
 - Morden the Talon Knight, played by Kyani
@@ -23,13 +25,13 @@ Last night I ran a session of [Chris McDowall's playtest of Primeval Bastionland
 ## Prep
 I used the prep procedures described in Primeval Bastionland pretty much verbatim, with some further guidance gleaned from [Chris's recent post sharing his own prep](https://www.bastionland.com/2022/07/prep-exposed.html). Fleshing out the Seat of Power and the Holdings, and their attendant Knights and Seers, turned out to be a handy way making the hex map start to gel into a real place for me, with its own local concerns and dynamics. The player map looks like this:
 
-![](/img/primeval.png)
+![](../img/primeval.png)
 
 The GM map looks pretty much the same, except with the hexes numbered and some big red icons to indicate where Myths are.
 
 We used [Owlbear Rodeo](owlbear.rodeo) as a VTT, where I shared the hex map, and used some post-its to keep track of PC names. I used a big gray post-it to display the Knights' Oath, as a reminder of what PCs aim to do.
 
-![](/img/primevalscrn.png)
+![](img/primevalscrn.png)
 
 ## Arrival in Old Ferry
 I started the PCs off near the northwest corner of the map. I started them off with the following information:
@@ -53,16 +55,20 @@ The Knights travelled to Old Ferry and learned that the town's old women work th
 
 Morden used their crow's eyes to see if any of the local magpies had stolen the compass, but found no sign of it.
 
-> [!Spoiler]- GM Notes
-> The compass was a fragmentary hook to a nearby Myth -- the Goblin. The reason the compass could not be found is it had been misplaced and taken. I mentioned that one of the Magpies mimicked a man saying "no sign of it!" as a reminder of the widespread phenomenon of missing items and to emphasize how widespread the problem was. Still, there was a lot of information coming out all once, and I think I may have been handling this two subtly for an online game using a new system.
-
+<details>
+ <summary>GM Notes</summary>
+ <p>The compass was a fragmentary hook to a nearby Myth -- the Goblin. The reason the compass could not be found is it had been misplaced and taken. I mentioned that one of the Magpies mimicked a man saying "no sign of it!" as a reminder of the widespread phenomenon of missing items and to emphasize how widespread the problem was. Still, there was a lot of information coming out all once, and I think I may have been handling this two subtly for an online game using a new system.</p>
+ </details>
+ 
 At some point, I forget precisely when, they learned that the forest to the south, known as the Roilingwood, used to reach the limits of Old Ferry. But a century ago, the lord of the river keep called Pellsgate lost his daughter in it in a string of disappearances. He ordered the wood cut away and burned back. This information becomes relevant soon so I'll list it here.
 
 ## The Night Search
 That evening, the knights' rest was interrupted by the frantic arrival of a local hunter looking for his faithful bloodhound, Ewen. This dog is beloved by many in Old Ferry, and the whole town set to looking. The knights joined the search.
 
-> [!Spoiler]- GM Notes
-> I probably should have called for a Task roll find traces of the dog -- or even just let them find its tracks. Instead I decided they wouldn't and simply made an Omen check. I think this was a mistake, and stricter adherence to the game's guidelines for Actions may have prevented it. But I had forgotten about those for the moment...
+<details>
+ <summary>GM Notes</summary>
+ <p>I probably should have called for a Task roll find traces of the dog -- or even just let them find its tracks. Instead I decided they wouldn't and simply made an Omen check. I think this was a mistake, and stricter adherence to the game's guidelines for Actions may have prevented it. But I had forgotten about those for the moment...</p>
+ </details>
 
 In the wee hours of the morning they spotted something -- not the hound but the dirty white feet of a boy running through the woods. Marion chased him down until he scrambled up a tree. They asked him questions, and to each he responded with a story. I'll summarize the broad strokes:
 
@@ -72,14 +78,18 @@ In the wee hours of the morning they spotted something -- not the hound but the 
 
 Each of these ended with "and he/she/they lived happily ever after."
 
-> [!Spoiler]- GM Notes
-> It seemed appropriate to begin providing breadcrumbs to finding the Goblin without giving away its location outright. The second question was a hint at where to find the local Seer -- the Lost Seer, who wandered in a poppy field near the town. I figured this would be a good lead to tracking down the Goblin, but I think it got lost in the mix...
+<details>
+ <summary>GM Notes</summary>
+ <p>It seemed appropriate to begin providing breadcrumbs to finding the Goblin without giving away its location outright. The second question was a hint at where to find the local Seer -- the Lost Seer, who wandered in a poppy field near the town. I figured this would be a good lead to tracking down the Goblin, but I think it got lost in the mix...</p>
+ </details>
 
 ## The Old Man in the Burnt Wood
 While the knights slept off their long search, Morden's crow consulted with the local birds to see if they saw where the dog went. The birds' whisper network had the dog chase the deer all the way to a ruined watchtower three hecksleagues to the south.
 
-> [!Spoiler]- GM Notes
-> The players were very focused on finding the dog. They seemed awash in all the ambiguous information they were getting, and I worried they were getting frustrated. So I just gave them its location.
+<details>
+ <summary>GM Notes</summary>
+ <p>The players were very focused on finding the dog. They seemed awash in all the ambiguous information they were getting, and I worried they were getting frustrated. So I just gave them its location.</p>
+ </details>
 
 The players set off for the tower. Along the way, they began to travel through young woods growing among the burnt out trunks of the old, but the roots were still giant and gnarled. Somewhere in this mess of roots, they heard an old man cry out for help and ran to his aid. They saw his legs trapped in the brambles which seemed to pull him in like quicksand. Marion rode in and hacked at the roots, revealing a trap door through which the man was slipping. He gave them an sprightly smile, and dropped down into the dark.
 

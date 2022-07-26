@@ -18,9 +18,9 @@ Last night I ran a session of [Chris McDowall's playtest of Primeval Bastionland
  </details>
 
 ## Dramatis Personae
-- Morden the Talon Knight, played by Kyani
-- Reyka the Snare Knight, played by Brendan
-- Marion the Saddle Knight, played by Ram
+- Morden the Talon Knight, played by [Kyani](http://noisesanssignal.blogspot.com/)
+- Reyka the Snare Knight, played by [Ram](https://save.vs.totalpartykill.ca/)
+- Marion the Saddle Knight, played by [Brendan](https://www.necropraxis.com/)
 
 ## Prep
 I used the prep procedures described in Primeval Bastionland pretty much verbatim, with some further guidance gleaned from [Chris's recent post sharing his own prep](https://www.bastionland.com/2022/07/prep-exposed.html). Fleshing out the Seat of Power and the Holdings, and their attendant Knights and Seers, turned out to be a handy way making the hex map start to gel into a real place for me, with its own local concerns and dynamics. The player map looks like this:

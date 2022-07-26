@@ -4,8 +4,8 @@ title: Playtest Report - Primeval Bastionland
 date: 2022-07-26
 #
 tags: [actual play, play reports, primeval bastionland]
-cover-img: ["img/primevalscrn.png" : ""]
-thumbnail-img: "img/primevalscrn.png"
+cover-img: ["/img/primevalscrn.png" : ""]
+thumbnail-img: "/img/primevalscrn.png"
 #
 last-update: 
 share: true

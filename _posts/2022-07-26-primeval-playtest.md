@@ -36,7 +36,7 @@ We used [Owlbear Rodeo](owlbear.rodeo) as a VTT, where I shared the hex map, and
 ## Arrival in Old Ferry
 I started the PCs off near the northwest corner of the map. I started them off with the following information:
 
-*Arriving across a long-ruined wall (in 2.0). A group of monks from the Stone Duchy to the North will see you here and no further. You are passing into the Shrouded Land, and may not return until you have found the city. They told you following:
+*Arriving across a long-ruined wall (hex 02.00). A group of monks from the Stone Duchy to the North will see you here and no further. You are passing into the Shrouded Land, and may not return until you have found the city. They told you following:*
 - *The King in this land, The Club Knight, **Kosh of Connicht**, rules with the help of a brutal band called the **Order of the Newt***  
 - *The winter was hard and long and the crops are slow to come in.*
 - *Travel by river is swift, but the **Gate Knight** demands exorbitant tolls.*

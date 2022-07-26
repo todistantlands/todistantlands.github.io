@@ -59,7 +59,8 @@ Morden used their crow's eyes to see if any of the local magpies had stolen the 
  <summary>GM Notes</summary>
  <p>The compass was a fragmentary hook to a nearby Myth -- the Goblin. The reason the compass could not be found is it had been misplaced and taken. I mentioned that one of the Magpies mimicked a man saying "no sign of it!" as a reminder of the widespread phenomenon of missing items and to emphasize how widespread the problem was. Still, there was a lot of information coming out all once, and I think I may have been handling this two subtly for an online game using a new system.</p>
  </details>
- 
+
+
 At some point, I forget precisely when, they learned that the forest to the south, known as the Roilingwood, used to reach the limits of Old Ferry. But a century ago, the lord of the river keep called Pellsgate lost his daughter in it in a string of disappearances. He ordered the wood cut away and burned back. This information becomes relevant soon so I'll list it here.
 
 ## The Night Search
@@ -69,6 +70,7 @@ That evening, the knights' rest was interrupted by the frantic arrival of a loca
  <summary>GM Notes</summary>
  <p>I probably should have called for a Task roll find traces of the dog -- or even just let them find its tracks. Instead I decided they wouldn't and simply made an Omen check. I think this was a mistake, and stricter adherence to the game's guidelines for Actions may have prevented it. But I had forgotten about those for the moment...</p>
  </details>
+
 
 In the wee hours of the morning they spotted something -- not the hound but the dirty white feet of a boy running through the woods. Marion chased him down until he scrambled up a tree. They asked him questions, and to each he responded with a story. I'll summarize the broad strokes:
 
@@ -83,6 +85,7 @@ Each of these ended with "and he/she/they lived happily ever after."
  <p>It seemed appropriate to begin providing breadcrumbs to finding the Goblin without giving away its location outright. The second question was a hint at where to find the local Seer -- the Lost Seer, who wandered in a poppy field near the town. I figured this would be a good lead to tracking down the Goblin, but I think it got lost in the mix...</p>
  </details>
 
+
 ## The Old Man in the Burnt Wood
 While the knights slept off their long search, Morden's crow consulted with the local birds to see if they saw where the dog went. The birds' whisper network had the dog chase the deer all the way to a ruined watchtower three hecksleagues to the south.
 
@@ -90,6 +93,7 @@ While the knights slept off their long search, Morden's crow consulted with the 
  <summary>GM Notes</summary>
  <p>The players were very focused on finding the dog. They seemed awash in all the ambiguous information they were getting, and I worried they were getting frustrated. So I just gave them its location.</p>
  </details>
+
 
 The players set off for the tower. Along the way, they began to travel through young woods growing among the burnt out trunks of the old, but the roots were still giant and gnarled. Somewhere in this mess of roots, they heard an old man cry out for help and ran to his aid. They saw his legs trapped in the brambles which seemed to pull him in like quicksand. Marion rode in and hacked at the roots, revealing a trap door through which the man was slipping. He gave them an sprightly smile, and dropped down into the dark.
 

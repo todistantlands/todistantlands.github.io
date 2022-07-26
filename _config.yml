@@ -27,6 +27,10 @@ twitter_username: ideo_sissy
 github_username:  todistantlands
 blogger_cutoff: April 1 2022
 
+#Collections
+collections:
+  - links
+
 # Build settings
 environment: production
 theme: minima

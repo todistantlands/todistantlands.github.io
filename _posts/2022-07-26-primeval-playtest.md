@@ -23,13 +23,13 @@ Last night I ran a session of [Chris McDowall's playtest of Primeval Bastionland
 ## Prep
 I used the prep procedures described in Primeval Bastionland pretty much verbatim, with some further guidance gleaned from [Chris's recent post sharing his own prep](https://www.bastionland.com/2022/07/prep-exposed.html). Fleshing out the Seat of Power and the Holdings, and their attendant Knights and Seers, turned out to be a handy way making the hex map start to gel into a real place for me, with its own local concerns and dynamics. The player map looks like this:
 
-![[../img/primeval.png]]
+![[/img/primeval.png]]
 
 The GM map looks pretty much the same, except with the hexes numbered and some big red icons to indicate where Myths are.
 
 We used [Owlbear Rodeo](owlbear.rodeo) as a VTT, where I shared the hex map, and used some post-its to keep track of PC names. I used a big gray post-it to display the Knights' Oath, as a reminder of what PCs aim to do.
 
-![[img/primevalscrn.png]]
+![[/img/primevalscrn.png]]
 
 ## Arrival in Old Ferry
 I started the PCs off near the northwest corner of the map. I started them off with the following information:

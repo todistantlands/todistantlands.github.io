@@ -13,9 +13,12 @@ Last week generated a LOT of rumours and new information. I suspect this was a l
 
 I feel like a sibling to last week's info density issue is the fact that I spent a _lot_ of time talking. Lots of describing and playing out NPC interactions especially. I don't know if the players disliked this, but I don't think it was great practice either way. I was looking back at the playtest PDF after the game and noted this little bit of guidance:
 
-> **PRIMACY OF ACTION**  
-> Even when using the rules for travel, exploration, and combat, remember this, the **most important thing**.  
-> No rule or system within the game should override the **Actions** the players take.  
+> **PRIMACY OF ACTION**
+> 
+> Even when using the rules for travel, exploration, and combat, remember this, the **most important thing**.
+> 
+> No rule or system within the game should override the **Actions** the players take.
+>  
 > Remember the core of giving **information**, honouring their **choices**, and describing the **impact** of their actions.
 
 

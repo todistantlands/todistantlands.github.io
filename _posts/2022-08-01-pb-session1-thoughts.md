@@ -44,9 +44,3 @@ The screen is also already outdated, as Chris has once again revised the playtes
 > - Years - The age turns.
 
 I'll ask about this retroactively of the players who were present at the last session. Given the situation they were in when we called it, I'll offer "no time at all" as an option, too. Hopefully, I'll have some time to reflect these changes on the GM screen before the session. I also want to get the Primacy of Action stuff on there. For today, sticking them on post-its might have to suffice...
-<!-->
-<details>
- <summary>GM Notes</summary>
- <p>See, like this!</p>
- </details>
- <--->

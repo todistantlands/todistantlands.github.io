@@ -34,7 +34,7 @@ I also created a [GM screen in Google Slides](https://docs.google.com/presentati
 
 I printed off the screen and glued it to some cardboard and it is serviceable if ugly.
 
-The screen is also already outdated, as Chris has once again revised the playtest document. For my purposes, two changes are of direct consequence:
+~~The screen is also already outdated, as Chris has once again revised the playtest document.~~ Nope already updated it. For my purposes, two changes are of direct consequence:
 1. Glory (XP) is alloted at the end of a Season, not a session.
 2. A nice little pacing mechanism:
 
@@ -43,4 +43,4 @@ The screen is also already outdated, as Chris has once again revised the playtes
 > - Weeks - The season turns.
 > - Years - The age turns.
 
-I'll ask about this retroactively of the players who were present at the last session. Given the situation they were in when we called it, I'll offer "no time at all" as an option, too. Hopefully, I'll have some time to reflect these changes on the GM screen before the session. I also want to get the Primacy of Action stuff on there. For today, sticking them on post-its might have to suffice...
+I'll ask about this retroactively of the players who were present at the last session. Given the situation they were in when we called it, I'll offer "no time at all" as an option, too. Hopefully, I'll have some time to reflect these changes on the GM screen before the session. I also want to get the Primacy of Action stuff on there. ~~For today, sticking them on post-its might have to suffice...~~ And I did.

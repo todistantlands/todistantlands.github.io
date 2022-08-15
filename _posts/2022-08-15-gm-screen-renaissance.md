@@ -25,9 +25,9 @@ In an OSR setting, you could get a lot of mileage out of a GM screen broadcastin
 
 For an OD&D game, you could supplement this with class-specific guidance, either on the screen or on the character sheet:
 
-> **Fighter:** Armour makes you harder to kill, but strength lies in numbers. Employ retainers in combat and demonstrate leadership to keep them loyal.
-> **Cleric:** Dungeons are crawling with undead; keep your holy symbol ready to fend off difficult fights. Use your authority to cow monsters and recruit allies.
-> **Magic-User:** Your magic is limited, so save your spells for when they matter most. Spend your earnings on scribing scrolls to supplement your spell slots.
+> **Fighter:** Armour makes you harder to kill, but strength lies in numbers. Employ retainers in combat and demonstrate leadership to keep them loyal.  
+> **Cleric:** Dungeons are crawling with undead; keep your holy symbol ready to fend off difficult fights. Use your authority to cow monsters and recruit allies.  
+> **Magic-User:** Your magic is limited, so save your spells for when they matter most. Spend your earnings on scribing scrolls to supplement your spell slots.  
 
 
 [^1]: You'd probably need to swap in something else for high-level play, [I wouldn't know.](https://todistantlands.github.io/2022/06/17/starting-campaign-higher-levels.html)

@@ -12,7 +12,7 @@ thumbnail-img: "https://upload.wikimedia.org/wikipedia/en/4/46/Malevolent_2018_f
 
 *Sadly as often happens this time of year, the start of term is bulldozing my schedule, leaving my* Mythic Bastionland *game in an all-too-familiar gaming limbo. I suspect it will not resume, though I enjoyed it a lot and hope, if it does not get going again, that I can at least share some summary thoughts here soon. In the meantime, I am sharing something else I wrote: Last night on a whim I watched Netflix's 2018 horror film* Malevolent. *Afterward, as I tried to sort out what I thought about it, I ended up putting those thoughts to writing. I do not consider myself an expert on movies nor a particularly insightful review writer, but I figured I'd share it anyway for the sake of conversation.*
 
-*This review is rife with spoilers so if you think you'd have any interest in watching this movie at all and don't want to know how it ends, you've been warned: Stop reading. It also spoils key moments from the movie* Alien, *and in fact if you haven't seen* Alien *the think to take away from this review is that you should go watch that instead.
+*This review is rife with spoilers so if you think you'd have any interest in watching this movie at all and don't want to know how it ends, you've been warned: Stop reading. It also spoils key moments from the movie* Alien, *and in fact if you haven't seen* Alien *the thing to take away from this review is that you should go watch that instead.*
 
 ---
 

@@ -5,8 +5,8 @@ date: 2022-09-26 10:40:02-04:00
 share: true
 #
 tags: [reviews, movies]
-cover-img: ["https://todistantlands.github.io/img/malevolent.png" : ""]
-thumbnail-img: "/img/malevolent.png" #"" to disable
+cover-img: ["https://upload.wikimedia.org/wikipedia/en/4/46/Malevolent_2018_film_poster.png" : ""]
+thumbnail-img: "https://upload.wikimedia.org/wikipedia/en/4/46/Malevolent_2018_film_poster.png" #"" to disable
 ---
 ![Poster for Malevolent (2018)](https://upload.wikimedia.org/wikipedia/en/4/46/Malevolent_2018_film_poster.png)
 

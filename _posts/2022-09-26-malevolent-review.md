@@ -8,7 +8,7 @@ tags: [reviews, movies]
 cover-img: ["https://todistantlands.github.io/img/malevolent.png" : ""]
 thumbnail-img: "/img/malevolent.png" #"" to disable
 ---
-![Poster for Malevolent (2018)](https://todistantlands.github.io/img/malevolent.png)
+![Poster for Malevolent (2018)](https://upload.wikimedia.org/wikipedia/en/4/46/Malevolent_2018_film_poster.png)
 
 *Sadly as often happens this time of year, the start of term is bulldozing my schedule, leaving my* Mythic Bastionland *game in an all-too-familiar gaming limbo. I suspect it will not resume, though I enjoyed it a lot and hope, if it does not get going again, that I can at least share some summary thoughts here soon. In the meantime, I am sharing something else I wrote: Last night on a whim I watched Netflix's 2018 horror film* Malevolent. *Afterward, as I tried to sort out what I thought about it, I ended up putting those thoughts to writing. I do not consider myself an expert on movies nor a particularly insightful review writer, but I figured I'd share it anyway for the sake of conversation.*
 

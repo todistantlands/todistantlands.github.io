@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflections on Primeval Bastionland Session 1 
-tags: [actual play, reflections, primeval bastionland]
+tags: [actual play, reflections, mythic bastionland]
 cover-img: ["/img/primevalscrn.png" : ""]
 thumbnail-img: "/img/primevalscrn.png"
 share: true

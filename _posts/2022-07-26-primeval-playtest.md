@@ -3,7 +3,7 @@ layout: post
 title: Playtest Report - Primeval Bastionland
 date: 2022-07-26
 #
-tags: [actual play, play reports, primeval bastionland]
+tags: [actual play, play reports, mythic bastionland]
 cover-img: ["/img/primevalscrn.png" : ""]
 thumbnail-img: "/img/primevalscrn.png"
 #

@@ -3,7 +3,7 @@ layout: post
 title: Mythic Bastionland Playtest Session 2 - The Order of the Sow
 share: true
 #
-tags: [actual play, play reports, primeval bastionland]
+tags: [actual play, play reports, mythic bastionland]
 cover-img: ["/img/sowbanner.png" : ""]
 thumbnail-img: "/img/sowbanner.png" 
 ---

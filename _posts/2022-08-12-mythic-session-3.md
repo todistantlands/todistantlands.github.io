@@ -4,7 +4,7 @@ title: Mythic Bastionland Playtest Session 3 - Journey to the Reed Tower
 date: 2022-08-10 08:28:06-04:00
 share: true
 #
-tags: [actual play, play reports, primeval bastionland]
+tags: [actual play, play reports, mythic bastionland]
 ---
 
 I'm a little pressed for time this week so I'm going to try and keep this report short. Players, current or potential, are encouraged to skip the GM notes.

@@ -51,7 +51,7 @@ With the help of a young bravo named ZORUSTO and some carefully decrypted maps, 
 
 ### Tension
 - the cave floor contains several inches of water. The dragon is sensitive to ripples therein. 
-- Loud noises, or opening the second waterfall
+- Loud noises, or opening the second waterfall, will wake the dragon 
 - the skull gang will arrive 2d6 turns after the party. 
 
 ### Zorusto

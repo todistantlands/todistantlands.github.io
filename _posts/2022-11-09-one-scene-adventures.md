@@ -30,7 +30,7 @@ In the example below, I use some Dungeon World-style leading questions to build 
 ## Example Scene: Dragon, Spear, and Skull
 
 ### The Setup
-In an attempt to reverse their fortunes, the party has tracked down the location of the EMERALD BONE SPEAR (+2, doubles jump height).
+In an attempt to pay off their debts the party has tracked down the location of the EMERALD BONE SPEAR (+2, doubles jump height).
 With the help of a young bravo named ZORUSTO and some carefully decrypted maps, they have travelled to the spear's location in a secret cave in BLACKTHROAT CANYON. They are hunted by the SKULL GANG. From the cave mouth, they see the SPEAR at the bottom the spiral cavern, scintillating in the spray from a nearby waterfall.
 
 #### Framing Questions 

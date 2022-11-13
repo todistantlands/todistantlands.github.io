@@ -5,7 +5,7 @@ date: 2022-11-11 16:59:09-05:00
 share: true
 ---
 **Odds of confirmation per check**
-<input id = "odds" type="number" min = "1" value="1" size="3"> in <input id = "sides" type="number" min = "1" value="6" size="3">
+<input id = "odds" type="number" min = "1" value="1" size="3"> in <input id = "sides" type="number" min = "1" value="6" size="3">  
 _Max rolls:_ <input id = "max" type="number" min = "1" max="100" value="100" size="3">
 <button onclick="roll()">Check</button> <span id="log"></span>
 <script>
@@ -19,7 +19,6 @@ let r = false;
 r = (((Math.random() * s) < o) && i) || ((++i <= m) && test(o,s,m,i));
 return r;
 }
-
 function roll(o=odds.value, s = sides.value, m = max.value) {
 let check = test(o,s,m);
 if (check) {

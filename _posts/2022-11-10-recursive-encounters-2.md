@@ -17,14 +17,12 @@ function prnt (s) {log.innerHTML = s;}
 function test (o = 1, s = 6, m = 100, i = 1) {
 let r = false;
 r = (((Math.random() * s) < o) && i) || ((++i <= m) && test(o,s,m,i));
-return r;
-}
+return r;}
 function roll(o=odds.value, s = sides.value, m = max.value) {
 let check = test(o,s,m);
 if (check) {
 prnt(`Confirmed on roll ${check}.`);
-} else prnt(`Could not confirm after ${m} rolls.`);
-};</script>
+} else prnt(`Could not confirm after ${m} rolls.`);};</script>
 
 ## What is this?
 This is a sequel to the [Recursive Encounter Calculator](https://todistantlands.github.io/2019/06/17/the-recursive-encounter-calculator-for.html).

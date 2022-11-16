@@ -16,7 +16,7 @@ max = document.getElementById("max");
 function prnt (s) {log.innerHTML = s;}
 function test (o = 1, s = 6, m = 100, i = 1) {
 let r = false;
-r = (((Math.random() * s) < o) && i) || ((++i <= m) && test(o,s,m,i));
+r = (((Math.random() * s) < o) \&\& i) \|\| ((++i <= m) \&\& test(o,s,m,i));
 return r;}
 function roll(o=odds.value, s = sides.value, m = max.value) {
 let check = test(o,s,m);

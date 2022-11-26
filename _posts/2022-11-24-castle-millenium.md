@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some Notes on Castle Millenium
-tags: []
+tags: [castle millenium]
 share: true
 ---
 ## Time

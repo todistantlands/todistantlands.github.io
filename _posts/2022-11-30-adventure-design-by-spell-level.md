@@ -22,7 +22,7 @@ The wider implications here are a bit harder to guage than *sleep*, but this see
 
 Of course, a party *could* conceivably nail any "person"-type target, but the odds are worse the more HD they have. Charming the local leader is higher risk, but higher reward, and not subject to the same HD limitations as *sleep*. Give some thought as to what happens if the party wins over the person in charge and the general chain of command. And what happens if the underlings *know* their leader is charmed? Here's another reason it can be important to have multiple factions -- and perhaps even an unruly subfaction waiting for an excuse to splinter.
 
-## Light
+### Light
 It's worth noting that a 1st-level M-U with an extremely basic utility spell has favourable odds to temporarily blind any sighted target with less than 10 HD. Consider throwing some real nasties their way -- just make sure they have the option to run.
 
 --

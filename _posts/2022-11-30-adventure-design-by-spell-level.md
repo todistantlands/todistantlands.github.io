@@ -13,9 +13,9 @@ Still, let's try it out. I'm an impatient person, so I'm going to use a few hand
 ### Sleep
 *Sleep* tells you a lot about the kind of combat challenges you can throw at this party. It can unfailingly take out 7 HD worth of enemies, give or taking, assuming none of those enemies have more than 3 HD. (Incidentally, a group of one 3 HD enemy and two 2 HD enemies feels like a nice challenging mix for a coordinated 1st-level party). You could increase the number of enemies to make for a really nasty fight that will require sophisticated planning and/or some very lucky rolls. Since *Sleep* affects targets in ascending order of HD, it can also act as a way of clearing out mooks led by stronger foes, allowing players to balance the odds in a scenario stacked against them.
 
+### Charm Person
 Obviously turning an enemy into an ally is always a good moment, but from an adventure design perspective *Charm person* is most interesting for its limitations. First, the restriction to the category of *persons* excludes all the non-humanoid beasties, as well as undead. These must be dealt with by other means.
 
-### Charm Person
 Second, *charm* takes a save that scales to the target's HD. This means that lower-power targets are more likely to succumb to the spell. Note also that subjects are allowed subsequent saves at given intervals based on their intelligence. This means the ideal target for a charm person spell is a fairly stupid and weak target with high tactical value. Maybe a goblin in a machine gun nest in the middle of a skirmish, or a scout that knows how to navigate a labyrinth without getting lost or bumping into a Minotaur.
 
 The wider implications here are a bit harder to guage than *sleep*, but this seems safe: a first-level party can *probably* accomplish any goal a low-level insider could without exposing themselves by dropping this spell. Give this party a challenge that rewards having a friend on the inside, but pay attention to what such an insider *can't* do.

@@ -23,14 +23,14 @@ In this post I'm going to talk about some of the tools and practices I'm adoptin
 ## Notetaking in Obsidian
 In keeping with (P2) and (P3), it's important to that whatever tools I use to write my dungeon be be easy to use and easy access at any time. For me that, that means my dungeon needs to live on my phone. While I am a sucker for nice stationary, I am also forgetful with objects and prone to misplacing things, and have to spend nights away from home fairly often. It also needs to be simple enough I don't get caught up playing around with features or get lost looking for fancy solutions to simple problems.
 
-Obsidian is a markdown-based note-taking tool that I already use a _lot_. I'm using it to write this post, and my app is configured to dump text directly into the blog you're reading it on! Markdown means it's easy to do basic text formatting without breaking out of the typing interface (P3, P4). Also, my Obsidian library lives as a set of markdown files in my Dropbox, which means I can access it from anywhere and edit it in virtually any text editor, if the need arises (P2). 
+Obsidian is a markdown-based note-taking tool that I already use a _lot_. I'm using it to write this post, and my app is configured to dump Obsidian notes directly into this blog! Markdown means it's easy to do basic text formatting without breaking out of the typing interface (P3, P4). Also, my Obsidian library lives as a set of markdown files in my Dropbox, which means I can access it from anywhere and edit it in virtually any text editor, if the need arises (P2). 
 
 Obsidian is going to be doing a lot of work for me, and you'll be hearing about it more. But for now...
 
 ## Statistically Average Dungeon, With Tweaks
 I sweat numbers (D3). I like numbers. I am a person who fixates on numbers. I am not going to magically stop being that person. So part of my structure (P1) is going to pre-sweat the numbers.
 
-As Sean suggests, I am going to make each week a thematic cluster of 7 rooms. 6 of those rooms will adhere to the model of Marcia's Statistically Average dungeon. The 7th will be left a wildcard to drive home the theme. I give myself permission to stray from Marcia's model, but as a checklist to guide my writing (P1) and contain my fussing (D3).
+As Sean suggests, I am going to make each week a thematic cluster of 7 rooms. 6 of those rooms will adhere to the model of [Marcia's Bite-Sized Dungeon](https://traversefantasy.blogspot.com/2022/11/bite-sized-dungeons.html). The 7th will be left a wildcard to drive home the theme. I give myself permission to stray from Marcia's model, but as a checklist to guide my writing (P1) and contain my fussing (D3).
 
 ## Leave Fussy Details for Later
 I talked in my last post about how a lot of treasure is functionally a fancy wrapping for XP. I don't think this is necessarily a bad thing, but it is a high-bandwidth, low value way to spend my writing time (P4, D2). I do not enjoy enumerating the gems and jewels in the coin pile, and I don't want to encumber myself with a whole system to do it for me, as dealing with it also takes away from writing (P3).

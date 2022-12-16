@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Preparing for #dungeon23, Part 2: Syste"
+title:  "Preparing for #dungeon23, Part 2: System"
 date: 2022-12-16
 tags: [dungeon23]
 share: true

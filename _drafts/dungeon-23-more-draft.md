@@ -61,6 +61,10 @@ That renders like this:
 
 I'm not going to get into it all here, but Mermaid can do some fairly sophisticated stuff. I can put simpler keys directly on the map. The renderer also arranges the graph to minimize crossed lines. That means I don't have to worry about screwing up my whole dungeon when I decide to change around a few connections -- mermaid will move the nodes as necessary so they read well and make sense.
 
+As a proof of concept, I already mapped out the first 3 weeks of January. They look like this:
+
+![mermaid_example_big.png](/img/mermaid_example_big.png)
+
 That's a great big (D1) for you right there.
 
 So that's my system! Hope this is helpful to someone. Or at least kind of interesting?

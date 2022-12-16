@@ -56,8 +56,8 @@ It turns out Obsidian supports a little language called Mermaid that uses simple
 	```
 ``` 
 That renders like this:
-
-![mermaid-example.png](../img/mermaid-example.png)
+ 
+!\[mermaid-example.png\](/img/mermaid-example.png)
 
 I'm not going to get into it all here, but Mermaid can do some fairly sophisticated stuff. I can put simpler keys directly on the map. The renderer also arranges the graph to minimize crossed lines. That means I don't have to worry about screwing up my whole dungeon when I decide to change around a few connections -- mermaid will move the nodes as necessary so they read well and make sense.
 

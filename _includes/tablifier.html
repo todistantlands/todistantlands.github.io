@@ -1,0 +1,64 @@
+<script>
+	class Table {
+		static separator = ": ";
+		
+		constructor(list, name = false) {
+			this.name = name;
+			this.list = this.populateList(list); //nodeList
+		}
+
+		populateList(list) {
+			let node = list;
+			console.log('Processing list: '+node)
+			let arr = false;
+			console.log('Verifying tag: '+node.tagName)
+			if (["UL","OL"].includes(node.tagName)) {
+				arr = [];
+				for (let x of node.children) {
+					if (x.children.length == 0) {
+						console.log('Adding entry: '+x.innerHTML)
+						arr.push(x.innerHTML);
+					} else {
+						console.log('Children found. Seeking subtable header in: ' + x.innerHTML.replace(/\s/g, " "))
+						let newName = false;
+						if (x.tagName == "LI") {
+							newName = x.innerHTML.replace(/\s/g, " ").match(/(.+)?(<ul>|<ol>)/im)[1].trim();
+						}
+						arr.push(new Table(x.querySelector("ul,ol"),newName));
+					}
+				}
+			}
+			return arr;
+		}
+
+		pull() {
+			let len = this.list.length;
+			let list = this.list;
+			let e = list[Math.floor(Math.random() * len)];
+			if (e instanceof Table) {
+				return ("" + ((e.name && e.name + Table.separator )|| "") + e.pull());
+			} else return e;
+		}
+	}
+
+	const Tables = {};
+
+	window.onload = (event) => {
+		document.querySelectorAll(".random-table").forEach(
+			function(node) {
+				let id;
+				if (!node.id) {
+					node.id = Math.floor(Math.random() * 1000000);
+				}
+				id = node.id;
+				Tables[id] = new Table(node);
+				Tables[id]._button = `
+					</ br>
+					<button onclick="document.getElementById('${id}_readout').innerHTML = Tables['${id}'].pull();">Pull</button> 
+					<span id="${id}_readout"></span>
+				`;
+				document.getElementById(id).outerHTML += Tables[id]._button;
+			}
+		);
+	};
+</script>

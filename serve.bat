@@ -1,2 +1,2 @@
 set JEKYLL_ENV=production
-bundle exec jekyll serve -w --livereload
+bundle exec jekyll serve -w --livereload --drafts

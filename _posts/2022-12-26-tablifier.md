@@ -55,10 +55,8 @@ It's extremely easy. Two steps!
 
 ### Step 1: Embed the script in your page.
 First, you need to copy/paste the following script somewhere into your post:
-<details>
- <summary>Click here to see a bunch of code!</summary>
- <p>
- <code><script>
+```
+<script>
 	class Table {
 		static separator = ": ";
 		
@@ -119,9 +117,8 @@ First, you need to copy/paste the following script somewhere into your post:
 			}
 		);
 	};
-</script></code>
- </p>
- </details>
+</script>
+```
 *(Note: I am not a computer scientist. I have no formal training in web design. I am 100% self-taught. A friend once told me my code has a distinctive "accent". I make no apologies for my accent, or any jank in the above; it works.)*
 
 How you import the script will depend a little bit on your specific workflow. Mine, for instance, is set up in such a way that I can rapidly import the whole thing using the tag `{% raw %}{%- include tablifier.html -%}{% endraw %}`. My workflow is also fairly idiosyncratic. If you're using Blogger or WordPress, the easiest option will be to put your editor in HTML mode. Here are links on how to do that:

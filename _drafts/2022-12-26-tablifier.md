@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Behold: The Tablifier"
-share: false
+share: true
 ---
 {%- include tablifier.html -%}
 Ok ok so:
@@ -20,7 +20,7 @@ Click the "pull" button. Try it a few times.
 
 Big whoop, you say, you've seen it before. [Michael Raston does like 17 of these per post.](http://lizardmandiaries.blogspot.com/) And you're right! It's just a lil button.
 
-But what if I told you, that this is the entirety code it took to convert that table into a button:
+But what if I told you, that this is the entirety of the code it took to go from that table to that button:
 
 ```
 {% raw %}{%- include tablifier.html -%}{% endraw %}
@@ -40,6 +40,8 @@ Ok ok so:
 ## Just get to the point
 The Tablifier is a small JavaScript utility you can import into any blog post or web page and, with almost zero effort, created automated generators from plaintext tables. It should play nice with markdown, Blogger, Wordpress, and basically anything else that spits out HTML-formatted lists. You can stick this into any existing post with a numbered or bulleted list and have a functional automated table in seconds.
 
+The rest of this post explains how the Tablifier works and how to get it running in your own blog posts and webpages, followed by a few notes on its limits and future plans. The Tablifier is open-source, open use, whatever. It's for you to use. Have fun with it.
+
 ## How does it work?
 The Tablifier...
 1. Waits for your page to finish loading.
@@ -53,10 +55,8 @@ It's extremely easy. Two steps!
 
 ### Step 1: Embed the script in your page.
 First, you need to copy/paste the following script somewhere into your post:
-<details>
- <summary>Click here to see a bunch of code!</summary>
- <p>
- <code><script>
+```
+<script>
 	class Table {
 		static separator = ": ";
 		
@@ -117,9 +117,8 @@ First, you need to copy/paste the following script somewhere into your post:
 			}
 		);
 	};
-</script></code>
- </p>
- </details>
+</script>
+```
 *(Note: I am not a computer scientist. I have no formal training in web design. I am 100% self-taught. A friend once told me my code has a distinctive "accent". I make no apologies for my accent, or any jank in the above; it works.)*
 
 How you import the script will depend a little bit on your specific workflow. Mine, for instance, is set up in such a way that I can rapidly import the whole thing using the tag `{% raw %}{%- include tablifier.html -%}{% endraw %}`. My workflow is also fairly idiosyncratic. If you're using Blogger or WordPress, the easiest option will be to put your editor in HTML mode. Here are links on how to do that:
@@ -168,11 +167,6 @@ If it doesn't, you need to get at the content after it's been converted to HTML 
 ### Note on multiple tables
 You only need to give the `class="random-table"` property to the highest-level tag for each list.  Nested lists will be handled along with their parent list. However, if you have two or more *separate, non-nested* lists, each one will need the `class="random-table"` property. If you're new to HTML, finding the correct tags might take some trial and error.
 
-## I want to use it now
-Good! Use it! You have what you need.
-
-You're welcome to fiddle around with the code, experiment, iterate, etc. I would appreciate a link back to this page if you find it handy. :)
-
 ## What are its limits?
 Right now the Tablifier is pretty basic. It can't do weighted lists, and nested tables are each specific to one result. That means if you wanted a result that combines, say, a letter from A to C and a number from 1 to 3, you'd have to do it like this:
 
@@ -192,4 +186,11 @@ Right now the Tablifier is pretty basic. It can't do weighted lists, and nested 
 
 In the near future, I'd like to give it a little more configurability, including more fine-grained control over where buttons appear and what they say. I'd also like to provide some dials for how it renders outputs from nested lists.
 
-I'd also like to find a way to host the code in such a way that people could import it using a `<script src>` call or something easy like that. I feel like that involves some significant overhead to do securely though, and I'm not exactly versed in that stuff, so the copy/paste method will have to do for now. Maybe a github repository for it? I don't know. Enjoy!
+I'd also like to find a way to host the code in such a way that people could import it using a `<script src>` call or something easy like that. I feel like that involves some significant overhead to do securely though, and I'm not exactly versed in that stuff, so the copy/paste method will have to do for now. Maybe a github repository for it? I don't know.
+
+Finally, I'd like to make it a bit more robust and user-friendly, especially for people who don't usually use HTML. I'm thinking I could teach it how to look for a list inside a classed `<div>` tag, which might be a little easier than digging around for the right list tag.
+
+## I want to use it now
+Good! Use it! You have what you need.
+
+You're welcome to fiddle around with the code, experiment, iterate, etc. I would appreciate a link back to this page if you find it handy. :)

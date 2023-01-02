@@ -52,7 +52,7 @@ share: true
 		5. Fungus
 		6. Buzzard
 	3. Wand
-		1. Growth solution
+		1. Fertilizer
 		2. Purging agent
 		3. Curtain
 		4. Needle
@@ -109,6 +109,9 @@ share: true
 		1. Truth revealed in half-light
 		2. Suppression of hateful things
 		3. A gap or pit
+		4. ...
+		5. ...
+		6. ...
 4. Bond and Betrayal
 	1. The Knights of Autumn
 		1. Census-takers

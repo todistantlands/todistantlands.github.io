@@ -11,9 +11,10 @@
         {{ content }}
       </div>
     </main>
+	
+	{%- if page.tablify -%}{%- include tablifier-modified.html -%}{%- endif -%}
 
     {%- include footer.html -%} 
 
   </body>
-
 </html>

@@ -26,6 +26,7 @@ url: "http://todistantlands.github.io" # the base hostname & protocol for your s
 twitter_username: ideo_sissy
 github_username:  todistantlands
 blogger_cutoff: April 1 2022
+tablify: false
 
 #Collections
 collections:

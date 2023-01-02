@@ -4,7 +4,7 @@ subtitle: #Optional
 permalink: /dmgheartbreaker/d23d666 
 share: true
 ---
-{%- include tablifier.html -%}
+{%- include tablifier-modified.html -%}
 
 1. Ceremony and Vainglory
 	1. Nobility

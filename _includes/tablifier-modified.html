@@ -1,0 +1,136 @@
+<script>
+class Table {
+	static separator = ": ";
+	static plainTextIdentifierStart = /(<|&lt;)tablify(>|0&gt)/g;
+	static plainTextIdentifierEnd = /(<|&lt;)\/tablify(>|0&gt)/g;
+
+	constructor(list, name = false) {
+		this.name = name;
+		this.list = Table.tablify(list);//nodeList
+		return this;
+	}
+
+	//Plaintext Mode
+	static locateInvoke(scope = document.querySelector("body"), string = Table.plainTextIdentifierStart) {
+		//Check if the string is within scope
+		try{
+			if (!!scope.textContent.match(string)) {
+				return (Table.locateInvoke(scope.firstElementChild, string)||scope);
+			} else return (Table.locateInvoke(scope.nextElementSibling,string));
+		} catch (err) {
+			return false;
+		}
+	}
+	
+	static queryExecute(
+		rangeStart = Table.locateInvoke(document.querySelector("body"),Table.plainTextIdentifierStart), //an HTML Element containing the starting identifier
+		rangeEnd = Table.locateInvoke(document.querySelector("body"),Table.plainTextIdentifierEnd) //an HTML Element containing the ending identifier
+	){
+		let range = new Range();
+		range.setStartAfter(rangeStart);
+		range.setEndBefore(rangeEnd);
+
+		let newParent = document.createElement('div');
+		newParent.className = "random-table";
+		range.surroundContents(newParent);
+
+		rangeStart.remove();
+		rangeEnd.remove();
+
+		return newParent;
+	}
+	
+	// Methods
+
+	tablifyB(list) {
+		let node = list;
+		let arr = false;
+		if (["UL","OL"].includes(node.tagName)) {
+			arr = [];
+			for (let x of node.children) {
+				if (x.children.length == 0) {
+					arr.push(x.innerHTML);
+				} else {
+					let newName = false;
+					if (x.tagName == "LI") {
+						newName = x.innerHTML.replace(/\s/g, " ").match(/(.+)?(<ul>|<ol>)/im)[1].trim();
+					}
+					arr.push(new Table(x.querySelector("ul,ol"),newName));
+				}
+			}
+		} else if (node.tagName == "DIV") {
+			arr = this.tablify(node.querySelector("ul, ol"));
+		}
+		return arr;
+	}
+	
+	static tablify(element) {
+		element.normalize();
+		console.log('Tablifying ',element, ', tag name ', element.tagName);
+		let arr = [];
+		for (let x of element.children) {
+			console.log('Inspecting child ',x, ', tag name', x.tagName);
+			switch (x.tagName) {
+				case "LI":
+					if (x.childElementCount == 0) {
+						console.log('Pushing child element ', x)
+						arr.push(x.textContent.trim());
+					} else {
+						let newTableName = false, i = x.firstChild;
+						do {
+							console.log('Inspecting child node ',i,' of ',x);
+							if (i && (i.nodeName == "#text")) {
+								console.log('Found text node: ',i.textContent.trim());
+								!!(i.textContent.trim()) && (newTableName = i.textContent.trim());
+							}
+							i = i.nextSibling;
+						} while (!newTableName || i);
+						arr.push(new Table(x,newTableName));
+					}
+					break;
+				case "TABLIFY":
+				case "DIV":
+				case "UL":
+				case "OL":
+					!!(x.childElementCount) && (arr = Table.tablify(x));
+					break;
+			}
+		}
+		return arr;
+	}
+
+	pull() {
+		let len = this.list.length;
+		let list = this.list;
+		let e = list[Math.floor(Math.random() * len)];
+		if (e instanceof Table) {
+			return ("" + ((e.name && e.name + Table.separator )|| "") + e.pull());
+		} else return e;
+	}
+}
+
+const Tables = {
+	count:0
+};
+
+window.onload = (event) => {
+	//Table.queryExecute();//Plaintext mode
+	document.normalize();
+	document.querySelectorAll("tablify, .random-table").forEach(
+		function(node) {
+			let id;
+			if (!node.id) {
+				node.id = "_UNASSIGNED_"+(++Tables.count);
+			}
+			id = node.id;
+			Tables[id] = new Table(node);
+			Tables[id]._button = `
+				<p>
+				<button onclick="document.getElementById('${id}_readout').innerHTML = Tables['${id}'].pull();">Pull</button> 
+				<span id="${id}_readout"></span>
+				</p>`;
+			document.getElementById(id).outerHTML += Tables[id]._button;
+		}
+	);
+};
+</script>

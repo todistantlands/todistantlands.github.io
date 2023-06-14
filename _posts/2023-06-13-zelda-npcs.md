@@ -67,7 +67,7 @@ The tables below should help you sketch out NPCs in this style. Sometimes you mi
 {: .random-table}
 
 Some guys I rolled up as proofs of concept:
-- Proof of concept: (Hyperfixation) Arguing with another NPC about who caused the the building next to them to burn down. (Motive) They are incurable gossips and don't actually care who did it but each is extremely certain they are correct. (Attitude) They don't care who hears them and look at you expectantly when they make their arguments. (Hook) One believes the fire was caused by the goblins down in the creek, the other believes it was Brad and his WAND OF FIRE.
+- (Hyperfixation) Arguing with another NPC about who caused the the building next to them to burn down. (Motive) They are incurable gossips and don't actually care who did it but each is extremely certain they are correct. (Attitude) They don't care who hears them and look at you expectantly when they make their arguments. (Hook) One believes the fire was caused by the goblins down in the creek, the other believes it was Brad and his WAND OF FIRE.
 - (Hyperfixation) Bets you can't beat her at BLOODY KNUCKLES. (Motive) Wants to go rescue her dog from the kobolds but needs to make sure she has the strongest knuckles. (Attitude) Defiant at first but if you beat her she will plead with you to save her dog, since you clearly have the strongest knuckles.
 - (Hyperfixation) Convinced they are the reincarnation of the legendary hero LANK. (Motive) Saw a shooting star land in the sacred clearing where a statue of the hero stands. (Attitude) Wants you to join their adventuring party to go retrieve the shooting the star, proving they are the hero.
 

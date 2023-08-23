@@ -27,13 +27,13 @@
           {%- endfor -%} -->
 		  {%- for path in page_paths limit: 2 -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
+            {%- if my_page.title and my_page.linkFromIndex -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
 		  {%- for path in page_paths offset: continue -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
+            {%- if my_page.title and my_page.linkFromIndex -%}
 			<span class="separator"> | </span><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}

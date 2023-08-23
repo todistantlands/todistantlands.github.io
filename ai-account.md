@@ -1,13 +1,14 @@
 ---
 layout: page
 title: On the Use of AI in my Review of The Isle of the Bleeding Ghost
+date: 2023-08-23
 permalink: /pages/bleeding-ghost-ai
 share: true
 linkFromIndex: false
 ---
-In the real world I am a research and university teacher on technology and culture. I am at once deeply troubled by AI's potential to shortcut meaningful human thought, and curious about its applications as a cognitive support. My use and discussion of AI here is not intended as an endorsement of the technology. Rather, I wish to include interested and/or concerned readers in my exploration.
+In the real world I am a researcher and university teacher on technology and culture. I am at once deeply troubled by AI's potential to shortcut meaningful human thought, and curious about its applications as a cognitive support. My use and discussion of AI here is not intended as an endorsement of the technology. Rather, I wish to include interested and/or concerned readers in my exploration.
 
-For this review, I was interested in seeing how AI could help me move past some of the cognitive obstacles I tend to encounter when reading and writing about RPGs. Specifically, I hoped it could help me organized my usually scattered thoughts and help me focus on reading and responding authentically to the text. My process in writing the review was as follows:
+For my review of [*Isle of the Bleeding Ghost*](/2023/08/23/spiked-pit-review-isle-bleeding-ghost), I was interested in seeing how AI could help me move past some of the cognitive obstacles I tend to encounter when reading and writing about RPGs. Specifically, I hoped it could help me organized my usually scattered thoughts and help me focus on reading and responding authentically to the text. My process in writing the review was as follows:
 
 1. I downloaded and printed the adventure PDF.
 2. While reading the module, I dictated my thoughts as they arose into Google's Recorder app. This app uses Google's AI technology to automatically produce a transcript of the recording.

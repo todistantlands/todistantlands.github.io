@@ -3,11 +3,14 @@ layout: post
 title: "Spiked Pit Review: Isle of the Bleeding Ghost by Jordan Thompson"
 share: true
 ---
+
+![islecover.png](/img/islecover.png)
+
 *This is a* Spiked Pit Review. *The idea behind these is to grab an adventure [Bryce Lynch](https://tenfootpole.org/ironspike/) has reviewed and review it myself, without reading Bryce's take. What I have learned from reading Bryce's reviews and running adventures he recommends is we have different ideas about what makes a good module. Hopefully this can help widen the range of perspectives on the adventures he covers. Is this the first of a series? Not yet, but it might be if I do more.*
 
 *A quick note on process: I used [ChatGPT](https://chat.openai.com/) to help me write this review. Because I know it's a touchy subject, and in the name of transparency, I've written up a <a href="/pages/bleeding-ghost-ai" target="_blank" rel="noopener noreferrer">discussion of how I used AI for this review</a>.*
 
-_Isle of the Bleeding Ghost_ is a swashbuckling dungeon module by Jordan Thompson for Kelsey Dionne's _Shadowdark RPG_. The cover art is by Cassie Thompson. _Isle_ has an incredibly unpromising title that I struggle to remember every time I type it. Fortunately, it is otherwise quite solid, especially for a game jam entry by an author who does not appear to have any prior publications. The module spans a mere 6 pages, with short, punchy room descriptions. I have never played or run _Shadowdark_, but I had previously skimmed the quickstart rules and revisited them to contextualize some of my comments below.
+[_Isle of the Bleeding Ghost_](https://jdt-dm.itch.io/isle-of-the-bleeding-ghost) is a swashbuckling dungeon module by Jordan Thompson for Kelsey Dionne's _Shadowdark RPG_. The cover art is by Cassie Thompson. _Isle_ has an incredibly unpromising title that I struggle to remember every time I type it. Fortunately, it is otherwise quite solid, especially for a game jam entry by an author who does not appear to have any prior publications. The module spans a mere 6 pages, with short, punchy room descriptions. I have never played or run _Shadowdark_, but I had previously skimmed the quickstart rules and revisited them to contextualize some of my comments below.
 
 ## Fun, Varied, and Textured Design
 
@@ -30,3 +33,5 @@ I was also a bit confused by the lack of XP values for treasure. _Shadowdark_ us
 ## Conclusion
 
 _Isle of the Bleeding Ghost_ is a strong first publication bursting with good ideas. Its built-in time pressures and dense key drive home its tone and theme. On balance, I feel very positively about it. Swashbuckling is a tricky genre for dungeon-crawling games, and I suspect this strikes the right balance, although I worry it may be a bit overcrowded. The traps are the stars of the show, showing a real knack for creative situation design. The merchant faction with its inner tension is a close second. In last place is the module's title — c'mon, man. I haven't been particularly interested in running *Shadowdark*, but *Isle of the something whatever* has me curious. 
+
+You can get [Isle of the Bleeding Ghost pay-what-you-want on itch.io](https://jdt-dm.itch.io/isle-of-the-bleeding-ghost).

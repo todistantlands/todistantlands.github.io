@@ -1,6 +1,6 @@
 ---
 layout: page
-title: On the Use of AI in my Review of _The Isle of the Bleeding Ghost_
+title: On the Use of AI in my Review of <i>The Isle of the Bleeding Ghost</i>
 permalink: /pages/bleeding-ghost-ai
 share: true
 linkFromIndex: false

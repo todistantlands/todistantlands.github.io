@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "On the Use of AI in my Review of <i>The Isle of the Bleeding Ghost</i>"
-permalink: "/bleeding-ghost-ai"
+permalink: /pages/bleeding-ghost-ai.html
 share: true
 ---
 In the real world I am a research and university teacher on technology and culture. I am at once deeply troubled by AI's potential to shortcut meaningful human thought, and curious about its applications as a cognitive support. My use and discussion of AI here is not intended as an endorsement of the technology. Rather, I wish to include interested and/or concerned readers in my exploration.

@@ -58,8 +58,7 @@ We head back north to check out some areas we skipped before. We find a room ful
 
 We ask the monopods what they're guarding and they tell us they protect *The Kingdom of the Monopods* which by their description is basically a medium-sized apartment housing their fellow failed experiments, including **The King of the Monopods.**
 
-Prospero the Violet: Why is he king?<\br>
-Monopod: Because he's very mean.
+Prospero the Violet: Why is he king?</br>Monopod: Because he's very mean.
 
 We also learn from them that **Nessuno** is a cyclops and not very nice. They are very forthcoming with information, and tell us that the statues in the gardens were people transformed by either a spell from Prospero the Blue or pecked by the cockatrice-head of the **King of the Blemmyes**.
 
@@ -74,7 +73,7 @@ We also learn:
 
 Graciela asks what kind of gift the King of the Monopods would like. They tell us he likes tokens of respect and obeisance. A monopod leans forward, grabs Graciela by the shirt, and pleads that we not bring any gift that might insult the king or reference their "limited capacity".
 
-Prospero the Violet: Is this the kind of situation where any gift we bring him he's going to *look* for a reason to take insult?<\br>
+Prospero the Violet: Is this the kind of situation where any gift we bring him he's going to *look* for a reason to take insult?</br>
 Monopod: Honestly, yes?
 
 We head East to check out another wing we hadn't explored. Behind one door we hear hissing as if from some great serpent and opt not to open that door. Not far beyond we find a great stairwell going up. We poke our heads up the stairs against Prospero the Violet's protestations. We don't learn much and head back down, continuing southward.

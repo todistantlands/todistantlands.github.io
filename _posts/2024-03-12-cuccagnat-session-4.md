@@ -47,7 +47,7 @@ We collect the treasure: <u>10 amethyst cabuchons (2500 gp)</u>.
 
 We debate whether to cash out and decide to explore *just one more room*. Sure this will be fine and we will not regret it.
 
-We come to a hall lined with alcoves full of *man-sized statues.* We quickly identify these to be petrified people like the ones outside, but unlike the servile theme of the orchard, these all appear to be adventurers. We deem this to be where Prospero the Blue keeps interlopers. They include a thief, a fighter, a battle-nun, and a knight. We have the porters haul away the thief.
+We come to a hall lined with alcoves full of *man-sized statues.* We quickly identify these to be petrified people like the ones outside, but unlike the servile theme of the orchard, these all appear to be adventurers. We deem this to be where Prospero the Blue keeps interlopers. They include a thief, a fighter, a battle-nun, and a knight.[^2] We have the porters haul away the thief.
 
 We check out another room nearby and find it to be a pantry. Nothing of interest.
 
@@ -75,3 +75,4 @@ Ok NOW we cash out.
 - we should steal that crystal ball
 
 [^1]: Presumably **Prospera the Indigo**
+[^2]: I'm reasonably sure there were actually between 5 and 7 statues in total but we didn't study all of them.

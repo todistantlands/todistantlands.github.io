@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cuccagnat Session 6: I accidentally called it 'Protection from Email'"
+title: "Cuccagna Session 6: I accidentally called it 'Protection from Email'"
 date: 2024-04-02
 share: true
 ---

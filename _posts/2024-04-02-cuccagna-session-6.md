@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cuccagnat Session 6: I accidentally called it 'Protection from Email'"
-date: 2024-03-26
+date: 2024-04-02
 share: true
 ---
 This is a writeup of Session 6 of [Miranda Elkins' *Cuccagna* campaign](https://startplaying.games/adventure/clsl2qs3l00hj0bkzhmaha98u), where we exploring and plundering the mysteriously abandoned manse of the famous wizard **Prospero the Blue**. It was hastily written up for record keeping purposes during play and may make for poor reading. If this campaign sounds like fun to you, there are still spots available. Consider joining in!

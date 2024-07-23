@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"DM-less Castle Xyntillan"'
+title: 'DM-less Castle Xyntillan'
 date: 2024-07-22
 tags:
   - solo
@@ -11,11 +11,8 @@ tags:
 excerpt-separator: <!--more-->
 share: true
 ---
-Oops! It's been a while.
+Oops! It's been a while. I've actually had a lot of gaming stuff going on lately that I haven't gotten around to blogging about! For one, I kinda sorta [went and wrote a game.](https://thelastrobot.itch.io/priestoftheroad)More on that in another post. This one is about how my husband and I did a dungeon crawl through a published adventure without a DM (sorta)! <!--more-->
 
-I've actually had a lot of gaming stuff going on lately that I haven't gotten around to blogging about! For one, I kinda sorta [went and wrote a game.](https://thelastrobot.itch.io/priestoftheroad)More on that in another post.
-
-This one is about how my husband and I did a dungeon crawl through a published adventure without a DM (sorta)!<!--more-->
 ## What we did
 
 I've been tinkering with solo play lately, and today my husband was saw me fussing around with papers and maps and asked me what I was doing. I told him I was going to try to play Castle Xyntillan solo, without a DM. I asked if he'd like to join.

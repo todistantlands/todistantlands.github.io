@@ -17,7 +17,7 @@ Oops! It's been a while. I've actually had a lot of gaming stuff going on lately
 
 I've been tinkering with solo play lately, and today my husband was saw me fussing around with papers and maps and asked me what I was doing. I told him I was going to try to play Castle Xyntillan solo, without a DM. I asked if he'd like to join.
 
-Given the deadliness of the dungeon, we decided to each run a small party of adventurers that was collaborating to delve the dungeon. We each rolled up 3 OSE characters, tracking them using a [one-page tracking sheet I threw together.](todistantlands.github.io/assets/files/solo_party_pc_tracker.pdf)
+Given the deadliness of the dungeon, we decided to each run a small party of adventurers that was collaborating to delve the dungeon. We each rolled up 3 OSE characters, tracking them using a [one-page tracking sheet I threw together.](https:todistantlands.github.io/assets/files/solo_party_pc_tracker.pdf)
 
 This post is going to focus on how we made this work, rather than reporting on our session. Still, here is a short and very incomplete record of things we accomplished in about 3 or 4 hours of play:
 - Explored, like, a solid dozen rooms of the castle?

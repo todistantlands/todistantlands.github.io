@@ -11,7 +11,7 @@ tags:
 excerpt-separator: <!--more-->
 share: true
 ---
-Oops! It's been a while. I've actually had a lot of gaming stuff going on lately that I haven't gotten around to blogging about! For one, I kinda sorta [went and wrote a game.](https://thelastrobot.itch.io/priestoftheroad)More on that in another post. This one is about how my husband and I did a dungeon crawl through a published adventure without a DM (sorta)! <!--more-->
+Oops! It's been a while. I've actually had a lot of gaming stuff going on lately that I haven't gotten around to blogging about! For one, I kinda sorta [went and wrote a game.](https://thelastrobot.itch.io/priestoftheroad) More on that in another post. This one is about how my husband and I did a dungeon crawl through a published adventure without a DM (sorta)! <!--more-->
 
 ## What we did
 

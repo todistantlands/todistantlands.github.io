@@ -10,16 +10,20 @@ I am running Deep Carbon Observatory again, this time in 5e. The players have ex
 Locate the Alpha Platypus!
 
 ## Platypus Facts
-(and Nature DCs to know them):
+*(and Nature DCs to know them):*
+
 **DC 11:**
 - Nocturnal hunters
+- Faster in water than on land
 - Venomous
+
 **DC 13:**
 - Usually feeds on prey small enough to fit in its beak
 - Despite being noctural, they sometimes emerge to hunt on overcast days.
-- Need air to breathe, can't stay underwater for long periods
+- Need air to breathe, can't stay underwater for more than a few minutes
 - Their venom isn't deadly to humans, but it can inflict agonizing pain.
 - Sleep in burrows.
+
 **DC 15:**
 - Electrosensitive in the front and below -- uses this rather than vision to hunt.
 - The venom is delivered using the hind legs.

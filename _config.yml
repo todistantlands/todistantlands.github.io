@@ -23,7 +23,6 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://todistantlands.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ideo_sissy
 github_username:  todistantlands
 blogger_cutoff: April 1 2022
 tablify: false
@@ -39,6 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 paginate: 10
+incremental: true
 
 # Disqus settings
 comments: true

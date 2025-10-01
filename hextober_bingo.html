@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--
+      This is the page head - it contains info the browser uses to display the page
+      You won't see what's in the head in the page
+      Scroll down to the body element for the page content
+    -->
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- 
+      This is an HTML comment
+      You can write text in a comment and the content won't be visible in the page
+    -->
+
+    <title>Hextober Bingo</title>
+
+    <!-- Meta tags for SEO and social sharing -->
+    <meta
+      name="description"
+      content="Refresh to get a new sheet."
+    />
+    <meta property="og:title" content="Hextober Bingo" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://todistantlands.github.io/hextober_bingo.html" />
+    <meta
+      property="og:description"
+      content="Refresh to get a new sheet."
+    />
+
+    <!-- Import the webpage's stylesheet -->
+    <link rel="stylesheet" href="hextober_bingo_src/style.css">
+
+    <!-- Import the webpage's javascript file -->
+    <script src="hextober_bingo_src/fittext.js"></script>
+    <script src="hextober_bingo_src/script.js" defer></script>
+    <script>
+            window.addEventListener("load", function () {
+                resizeToFit.init([
+                    "td"
+                ]);
+            });
+
+            window.addEventListener("resize", function () {
+                resizeToFit.resize();
+            });
+
+    </script>
+  </head>
+  <body>
+    <h1 align="center">🎃👻💀 Spooky Bingo 👽🦇🔪</h1>
+    <div id="bingo-table" align="center">
+      <table>
+        <tr>
+          <th>S</th>
+          <th>P</th>
+          <th>O</th>
+          <th>O</th>
+          <th>K</th>
+        </tr>
+        <tr>
+          <td id="spook0">Spook</td>
+          <td id="spook1">Spook</td>
+          <td id="spook2">Spook</td>
+          <td id="spook3">Spook</td>
+          <td id="spook4">Spook</td>
+        </tr>
+        <tr>
+          <td id="spook5">Spook</td>
+          <td id="spook6">Spook</td>
+          <td id="spook7">Spook</td>
+          <td id="spook8">Spook</td>
+          <td id="spook9">Spook</td>
+        </tr>
+        <tr>
+          <td id="spook10">Spook</td>
+          <td id="spook11">Spook</td>
+          <td id="spook12">FREE SPACE</td>
+          <td id="spook13">Spook</td>
+          <td id="spook14">Spook</td>
+        </tr>
+        <tr>
+          <td id="spook15">Spook</td>
+          <td id="spook16">Spook</td>
+          <td id="spook17">Spook</td>
+          <td id="spook18">Spook</td>
+          <td id="spook19">Spook</td>
+        </tr>
+        <tr>
+          <td id="spook20">Spook</td>
+          <td id="spook21">Spook</td>
+          <td id="spook22">Spook</td>
+          <td id="spook23">Spook</td>
+          <td id="spook24">Spook</td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>

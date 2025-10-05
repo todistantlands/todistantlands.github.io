@@ -58,7 +58,9 @@ Why Are They Going There, Why Would They Want To Be There
 Rotating blades, slowly approaching 
 CRT Horror
 Thematically relevant education materials
-That's not proper knife technique`;
+That's not proper knife technique
+Clown 🤡
+Happy Music While Bad Thing`;
 
 const btn = document.querySelector("button");
 

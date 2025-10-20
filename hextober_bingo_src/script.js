@@ -88,6 +88,20 @@ if (list) {
 	});
 }
 
+const date = new Date();
+if (date.getMonth() === 9 && date.getDate() === 20) {
+	const bdayField = document.getElementById("bdayField");
+	if (bdayField) {
+		bdayField.textContent = "It's Alex's birthday :)";
+	}
+}
+
+function isOctober20th(date = new Date()) {
+  // getMonth() returns 0 for January, 9 for October
+  return date.getMonth() === 9 && date.getDate() === 20;
+}
+
+
 function fillGrid() {
   let target;
   for (let i = 0; i < 25; i++) {

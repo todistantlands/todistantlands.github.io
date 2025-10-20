@@ -1,4 +1,4 @@
-const list = `Song on the radio, at the worst moment
+const rawList = `Song on the radio, at the worst moment
 Eat a bug
 Ancient book
 Got bit and said nothing
@@ -60,9 +60,19 @@ CRT Horror
 Thematically relevant education materials
 That's not proper knife technique
 Clown 🤡
-Happy Music While Bad Thing`;
+Happy Music While Bad Thing
+Alerted by the dog
+Storm's a-brewin'
+Gonna give you $100 to fuck off
+Scary Door
+Waylaid by bad weather
+Taxidermy
+That's not supposed to bend that way`;
 
 const btn = document.querySelector("button");
+const list = document.getElementById("bingoList");
+
+const formattedList = rawList.split("\n")
 
 if (btn) {
   btn.onclick = function () {
@@ -70,12 +80,19 @@ if (btn) {
   };
 }
 
+if (list) {
+	formattedList.forEach((e) => {
+		const item = document.createElement('li');
+		item.textContent = e;
+		list.appendChild(item);
+	});
+}
+
 function fillGrid() {
   let target;
-  let arr = list.split("\n");
   for (let i = 0; i < 25; i++) {
     target = document.getElementById("spook" + i);
-    target.innerHTML = arr.splice(Math.floor(Math.random() * arr.length), 1);
+    target.innerHTML = formattedList.splice(Math.floor(Math.random() * formattedList.length), 1);
     resizeToFit.resize();
   }
   document.getElementById("spook12").innerHTML = "FREE SPACE";

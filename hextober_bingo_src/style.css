@@ -202,3 +202,14 @@ th {
 td {
   height: 1.2in;
 }
+
+/* Print Formatting */
+@media print {
+  .twoCol {
+     column-count: 2;
+     -webkit-column-count: 2;
+     -moz-column-count: 2;
+  }
+  .page, .page-break { break-after: page; }
+}
+

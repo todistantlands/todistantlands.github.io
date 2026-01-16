@@ -18,21 +18,52 @@ Locate the Alpha Platypus!
 - Venomous
 
 **DC 13:**
-- Usually feeds on prey small enough to fit in its beak
+- Usually feeds on prey small enough to fit in its beak.
 - Despite being noctural, they sometimes emerge to hunt on overcast days.
 - Need air to breathe, can't stay underwater for more than a few minutes
 - Their venom isn't deadly to humans, but it can inflict agonizing pain.
 - Sleep in burrows.
 
 **DC 15:**
-- Electrosensitive in the front and below -- uses this rather than vision to hunt.
+- They prefer living prey.
 - The venom is delivered using the hind legs.
 - Burrows are usually found close to *but above* water. This means the flood has likely forced the Alpha to relocate.
+
+**DC 17:**
+- They don't use their eyes to hunt; They can sense prey swimming below them.
 
 ## Adventure-Specific Details
 - The Alpha Platypus's burrow has indeed flooded. Its old burrow was located near Pollnagollum, just south of the Log Tableaux. The new one, still shallow, is furth downriver, a few miles upstream of Pollnacrom.
 - The Alpha is known to many of the locals, although rarely spotted. Most fishermen know to avoid the vicinity of its old burrow.
 - If the Crows get word of the hunt, they will use the Platypus as bait for an ambush (see below).
+
+### What People Know About the Alpha
+*People know everything appropriate to their background, plus a History check to know one thing from each tier their roll beats.*
+
+#### Common Knowledge
+- It emerges on occasion to attack fishers and gobbles up children who run away from home.
+- Multiple hunting expeditions have tried to kill. None have succeeded.
+
+#### Adults and attentive kids
+(History DC 10)
+- It comes out at night to hunt.
+- It lives in the waters between Pollnagollum and Pollnacrom.
+
+#### Elders and gossips
+(History DC 12)
+- Hunters once forced it onto land, but found it surprisingly agile! It spun around, striking with its tail and beak at once.
+- Another time, hunters chased it into its burrow. It curled up into a ball and spun at them like a wheel!
+- Some wily fisher once got it into her head to trap it in its burrow with a net. She was never heard from again.
+
+#### Fishers and trackers
+(History DC 15)
+- It has been known to ram boats when provoked.
+- It lives near the river bend southwest of Pollnagollum.
+
+#### Basically Just Gudenus
+(History DC 20)
+- It has a taste for electric eels!
+- If it's out on a clear day, look out -- it must be very hungry.
 
 ## Examinations
 - **Asking in Pollnacrom:** The villagers will be disinclined to help the party with the hunt unless they get rid of the Golem first. The local fishers all know the approximate location of its former burrow, having learned to avoid it. One fisher by the name of **Curi Qale** will agree to guide the party there if they promise she can have its meat.
@@ -62,7 +93,7 @@ Their plan is to use the Platypus as a lure, and it will be ready in 1d3 days:
 - The Crows capture the Platypus.
 - Using *Speak with Animals*, Zolushika convinces the Platypus the PCs pose a threat to its life. The Platypus, already disturbed by the flood, will agree to help the Crows.
 - The Crows set up an ambush site (as per DCO#8).
-- The night before the ambush, the Crows will stage a series of sleep deprivation attacks -- a constant string of zombies, provoking
+- The night before the ambush, the Crows will stage a series of sleep deprivation attacks -- a constant string of zombies, picking off sentries, etc.
 - The Platypus goes hunting somewhere in plain sight, visible to the PCs shortly after they set out for the day.
 	- Anyone knowledgeable about Platypus behaviour (DC 12) will find this odd as it is nocturnal -- the most obvious explanation is it's very hungry. However, a perceptive observer (DC 15) will notice it is hunting lazily given the bounty of food around it. 
 - Once the Platypus is confident they are approaching it, it begins to flee towards the ambush site. This draws it onto land. (Again, this is suspicious behaviour.)

@@ -56,7 +56,7 @@ The 48 page cap is because most desktop staplers can handle *around 10* pages wi
 
 The multiple of 4 thing will make immediate sense if you’ve ever tried to use Acrobat’s booklet printing feature with a document that *doesn’t* have a multiple of 4 pages.[^4] If you don’t have enough content to fill exactly that many pages, just stick blank pages before the back cover until you do. It is way, WAY easier to insert blank pages in your word processor/layout software than into a PDF.
 
-#### *Actually that reminds me: Booklet form*
+#### Actually that reminds me: Booklet form
 
 Some people are stuck with shitty computers or laptops or even just their phones to print things from. Don’t assume your reader can convert your 1up/spread document to a printer+stapler friendly form. The desktop version of Acrobat can do that for you. Most publishing software can do that for you. I’m pretty sure Word can do that for you. If you can, offer a pre-formatted file specifically for booklet printing.[^5]
 

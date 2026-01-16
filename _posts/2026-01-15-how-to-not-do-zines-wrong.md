@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Not Do Zines Wrong
-date: 2026-01-15 19:51:41-05:00
+date: 2026-01-15
 share: true
 ---
 I’m not the first to remark that a lot of what we’re calling “zines” aren’t really zines. They’re fine, glossy magazines, or beautifully crafted books. While these products may share zines’ craft ethos, they don’t share another, equally important quality: Ease of reproduction and distribution. They come from a tradition of democratizing print media. 

@@ -14,20 +14,21 @@ This is a writeup of Session 3 of [Miranda Elkins' *Cuccagnat* campaign](https:/
 ## Characters
 ### Player Characters
 
-|PC|Class and level|Player|
-|---|---|---|
-|Prospero the Violet|Magic-User 1|A.|
-|Wren the Weird & Purple|Changeling 1|M.|
-|Kain|Fighter 1|K.|
-|Graciela the Good|Cleric 1|B.|
-|Petra|Dwarf 1|KC|
+| PC                      | Class and level | Player |
+| ----------------------- | --------------- | ------ |
+| Prospero the Violet     | Magic-User 1    | A.     |
+| Wren the Weird & Purple | Changeling 1    | M.     |
+| Kain                    | Fighter 1       | K.     |
+| Graciela the Good       | Cleric 1        | B.     |
+| Petra                   | Dwarf 1         | KC     |
+| Antonio Anfibio         | Frogling 1      | D      |
 
 ### Hirelings
 
-| Hireling | Class / Type | Employer |
-| ---- | ---- | ---- |
-| Dame Losaneta | Fighter | Prospero the Violet |
-| 2 porters |  | I forget |
+| Hireling      | Class / Type | Employer            |
+| ------------- | ------------ | ------------------- |
+| Dame Losaneta | Fighter      | Prospero the Violet |
+| 2 porters     |              | I forget            |
 
 ## What had happened was
 We picked up in media res and check out a *door* to the south. Wren listens and hears nothing, so Petra attempts to open it. Beyond is a room with a *large fountain* depicting a fish vomiting up water into a basin around it. Petra deems it to be of human make. Graciela samples it. She is fortified, *increasing her HP.* Graciela fills a wineskin with water from the fountain and we move on.

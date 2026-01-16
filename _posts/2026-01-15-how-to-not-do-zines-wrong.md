@@ -6,7 +6,7 @@ share: true
 ---
 I’m not the first to remark that a lot of what we’re calling “zines” aren’t really zines. They’re fine, glossy magazines, or beautifully crafted books. While these products may share zines’ craft ethos, they don’t share another, equally important quality: Ease of reproduction and distribution. They come from a tradition of democratizing print media. 
 
-You might say, well, zines are often PDFs, and PDFs are easy to reproduce and distribute. But damn near anything can be a PDF. The PDF is a digital expression of a print format.[^1] A *zine* is a print format. If your RPG product is a PDF, don’t call it a zine.
+You might say, well, zines are often PDFs, and PDFs are easy to reproduce and distribute. But damn near anything can be a PDF. The PDF is a digital expression of a print format.[^1] A *zine* is a print format. If your RPG product is, at its core, a PDF and not meant for print, don’t call it a zine.
 
 Am I language policing here? Sure, why not. I think the original sense of the word matters and is worth preserving, worth insisting upon. I think zines, as a non-luxury *print* media are important.
 

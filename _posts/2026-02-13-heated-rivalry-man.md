@@ -5,7 +5,7 @@ date: 2026-02-13
 share: true
 ---
 
-This is not a post about the things this blog is usually about. This is a post where I write at length about a TV show about gay hockey players hit me like a fucking truck, and I'm posting it here because I want to get these thoughts in writing and share them and I don't have anywhere else do that.
+This is not a post about the things this blog is usually about. This is a post where I write at length about how a TV show about gay hockey players hit me like a fucking truck, and I'm posting it here because I want to get these thoughts in writing and share them and I don't have anywhere else do that.
 
 So I literally don't know if I mentioned this in the 10+ years I've been writing this blog but I'm gay. If I haven't mentioned it it's not really a closet thing so much as like, not usually what I'm writing about here. That's an important context note here. Equally important is I am married to another man.
 
@@ -22,7 +22,7 @@ When you are in the closet two of your biggest worries are a) dying alone and un
 
 This might help explain why I've grown so wary of any kind of big media product about gay men. The happiest gay story I've known is the one I'm in now. That may sound like bragging, and I'm so grateful for what I have, but it's not all that comforting to see yourself as a rare exception to a very ugly rule, so I've preferred not to see myself at all.
 
-But my husband loved the *Heated Rivalry* and I mean *really* loved it. He'd talk about it an any opportunity, reads about it constantly, watches clips and commentaries on it at all hours. It was clearly very special to him. He also never watches things a second time. So when I saw he was starting *Heated Rivalry* a second time, I figured I should pay attention. Plus, I kept hearing bits of one of my favourite Wolf Parade songs and figured any show with good enough taste to use it can't be all bad.
+But my husband loved *Heated Rivalry*, and I mean *really* loved it. He'd talk about it an any opportunity, reads about it constantly, watches clips and commentaries on it at all hours. It's clearly very special to him. He also never watches things a second time. So when I saw he was starting *Heated Rivalry* a second time, I figured I should pay attention. Plus, I kept hearing bits of one of my favourite Wolf Parade songs and figured any show with good enough taste to use it can't be all bad.
 
 This one:
 
@@ -36,7 +36,7 @@ I'm not going to post a clip. If you know, you know. If you don't, watch the dam
 
 Yesterday, as we wrapped up my first trip through the series and my husband's second, he showed me a video of some famous psychologist describing it as "reparative". It's beautiful, she says, because it surfaces all those old fears, and hopes, and loves, and it shows to them to you and lets you feel them, and then *gives them the resolution you'd always wished for*. I remarked that that's very nearly the same way my therapist conducts our sessions.
 
-And it's shocking how powerful that effect has been. Shortly after we got to talking about how we came out to our parents -- we've talked about it plenty before, but it's an uncomfortable topic -- and ended up doing so more candidly than ever before. I learned things about my husband's coming out that I hadn't known I didn't know.
+And it's shocking how powerful that effect has been. Shortly after we got to talking about how we came out to our parents -- we've talked about it plenty before, but it's an uncomfortable topic -- and ended up doing so more candidly than ever before. I learned things about my husband's coming out that I hadn't known I didn't know. I'm thinking about it all the time. He says he is too.
 
 But beyond any kind of personal reparation, it's stuck with me as maybe the first thing I can point to when I want to explain why it all *matters* so much. It captures not just the fear and loneliness of the closet, but the pain of hiding the part of yourself that brings you to some of the most joyful, beautiful moments you'll ever have. It tracks how that act of hiding can't be separated from the other parts of your life, how the closet isn't somewhere you go, it's *everywhere you are*. It captures the incredible relief when you finally let yourself out and, of everything I've ever seen, does the best job of showing why someone would risk the kind of sacrifices that every, and I mean every, gay man, has to confront at one point or another. Why it is so fucking crushing when straight people complain about having to see Pride flags, or men holding hands, or whatever else they want to reduce to "flaunting my lifestyle".
 

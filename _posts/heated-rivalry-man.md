@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Heated Rivalry, Man
-subtitle:
 date: 2026-02-13
 share: true
 ---

@@ -44,6 +44,6 @@ This all reads as trite. I'm reciting gay clichés. I have had to fight with eve
 
 The show is beautiful. Send post.
 
-![](../img/hr_cute.png)
+![](https://todistantlands.github.io/img/hr_cute.png)
 
 .

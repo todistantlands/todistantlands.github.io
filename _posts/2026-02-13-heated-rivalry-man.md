@@ -22,13 +22,13 @@ When you are in the closet two of your biggest worries are a) dying alone and un
 
 This might help explain why I've grown so wary of any kind of big media product about gay men. The happiest gay story I've known is the one I'm in now. That may sound like bragging, and I'm so grateful for what I have, but it's not all that comforting to see yourself as a rare exception to a very ugly rule, so I've preferred not to see myself at all.
 
-But my husband loved *Heated Rivalry*, and I mean *really* loved it. He'd talk about it an any opportunity, reads about it constantly, watches clips and commentaries on it at all hours. It's clearly very special to him. He also never watches things a second time. So when I saw he was starting *Heated Rivalry* a second time, I figured I should pay attention. Plus, I kept hearing bits of one of my favourite Wolf Parade songs and figured any show with good enough taste to use it can't be all bad.
+But my husband loved *Heated Rivalry*, and I mean *really* loved it. He'd talk about it an any opportunity, read about it constantly, watch clips and commentaries on it at all hours. It's clearly very special to him. He also never watches things a second time. So when I saw he was starting *Heated Rivalry* a second time, I figured I should pay attention. Plus, I kept hearing bits of one of my favourite Wolf Parade songs and figured any show with good enough taste to use it can't be all bad.
 
 This one:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEtSb2QpOGU?si=A7O1eGlpWjkcwSd9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Here's another thing about the closet: every gay man probably has a mental playlist of songs that, to their creator, probably aren't about the closet, but, to that listener, are *extremely* about the closet and could never be about anything else. "I'll Believe in Anything" is one of mine. Over the years I loaded it up with every emotion imaginable. Joy at its awkward, jangly beauty. Sorrow in its bittersweet crescendos. Hope and love in every word of it's 2000's-twee enigmatic lyrics. It kept me company in breakups, rejections, and ghosted dates. It raised my spirits on tired, ugly days.
+Here's another thing about the closet: every gay man has a mental playlist of songs that, to their creator, probably aren't about the closet, but, to that listener, are *extremely* about the closet and could never be about anything else. "I'll Believe in Anything" is one of mine. Over the years I loaded it up with every emotion imaginable. Joy at its awkward, jangly beauty. Sorrow in its bittersweet crescendos. Hope and love in every word of it's 2000's-twee enigmatic lyrics. It kept me company in breakups, rejections, and ghosted dates. It raised my spirits on tired, ugly days.
 
 I can barely put into words what it was like to see this exact song mean, apparently to the creators of this show, and now thousands or millions of others, *exactly what it means to me*, with every ounce of fear and love and beauty my mind has loaded onto it. I wasn't ready when it happened, and since seeing the scene in question I have not been able listen to the song without crying. And I've listened to it a lot.
 
@@ -36,7 +36,7 @@ I'm not going to post a clip. If you know, you know. If you don't, watch the dam
 
 Yesterday, as we wrapped up my first trip through the series and my husband's second, he showed me a video of some famous psychologist describing it as "reparative". It's beautiful, she says, because it surfaces all those old fears, and hopes, and loves, and it shows to them to you and lets you feel them, and then *gives them the resolution you'd always wished for*. I remarked that that's very nearly the same way my therapist conducts our sessions.
 
-And it's shocking how powerful that effect has been. Shortly after we got to talking about how we came out to our parents -- we've talked about it plenty before, but it's an uncomfortable topic -- and ended up doing so more candidly than ever before. I learned things about my husband's coming out that I hadn't known I didn't know. I'm thinking about it all the time. He says he is too.
+And it's shocking how powerful that effect has been. Shortly after we got to talking about how we came out to our parents -- we've talked about it plenty before, but it's an uncomfortable topic -- and ended up doing so more candidly than ever before. I learned things about my husband's coming out that I hadn't known I didn't know. I'm thinking about _Heated Rivalry_ all the time now. He says he is too.
 
 But beyond any kind of personal reparation, it's stuck with me as maybe the first thing I can point to when I want to explain why it all *matters* so much. It captures not just the fear and loneliness of the closet, but the pain of hiding the part of yourself that brings you to some of the most joyful, beautiful moments you'll ever have. It tracks how that act of hiding can't be separated from the other parts of your life, how the closet isn't somewhere you go, it's *everywhere you are*. It captures the incredible relief when you finally let yourself out and, of everything I've ever seen, does the best job of showing why someone would risk the kind of sacrifices that every, and I mean every, gay man, has to confront at one point or another. Why it is so fucking crushing when straight people complain about having to see Pride flags, or men holding hands, or whatever else they want to reduce to "flaunting my lifestyle".
 
@@ -46,4 +46,3 @@ The show is beautiful. Send post.
 
 ![](https://todistantlands.github.io/img/hr_cute.png)
 
-.

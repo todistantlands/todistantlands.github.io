@@ -4,7 +4,6 @@ title: 3 Follow-Up Questions for Discord CTO Stanislav Vishnevskiy
 date: 2026-02-24 17:47:16-05:00
 share: true
 ---
->[!QUOTE]
 >Many of you are worried that this is just another big tech company finding new ways to collect your personal data. That we're creating a problem to justify invasive solutions. I get that skepticism. It's earned, not just toward us, but toward the entire tech industry. But that's not what we're doing.
 >
 >-- [Discord CTO Stanislav Vishnevskiy](https://discord.com/blog/getting-global-age-assurance-right-what-we-got-wrong-and-whats-changing)

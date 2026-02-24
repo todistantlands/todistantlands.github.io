@@ -11,7 +11,7 @@ share: true
 
 Oh ok, 3 quick questions:
 
-1. So what is it you're doing, and how do you know you're doing it not merely saying you're trying to do it?
+1. So what is it you're doing, and how do you know you're doing it and not merely saying you're trying to do it?
 2. Why does what you say you're doing now mean you aren't also doing the thing you say you aren't doing?
 3. How is it that the thing you are no longer doing turned out to be a thing you say you're not doing, and what are you doing to prevent the thing you do next from turning out to be the thing you say you aren't doing?
 

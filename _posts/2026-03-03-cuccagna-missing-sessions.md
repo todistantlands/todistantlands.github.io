@@ -16,7 +16,9 @@ share: true
 | Graciela the Good       | Cleric 1        | B.     |
 | Petra                   | Dwarf 1         | KC     |
 | John Napkin             | Fighter 1       | MCB    |
+
 ### Hirelings Brought Along
+
 | Hireling      | Class / Type | Employer            |
 | ------------- | ------------ | ------------------- |
 | Dame Losaneta | Fighter      | Prospero the Violet |
@@ -81,6 +83,7 @@ I was getting very sleepy near the end and stopped taking notes. Sorry about any
 # Session 9: Operation Bright Stick
 *14 May 2024*
 ### Player Characters
+
 | PC                      | Class and level | Player |
 | ----------------------- | --------------- | ------ |
 | Prospero the Violet     | Magic-User 2    | A.     |
@@ -90,6 +93,7 @@ I was getting very sleepy near the end and stopped taking notes. Sorry about any
 | Tony 'The Fib' Anfibio  | Frogling 1      | D      |
 
 ### Hirelings Brought Along
+
 | Hireling      | Class / Type | Employer            |
 | ------------- | ------------ | ------------------- |
 | Dame Losaneta | Fighter      | Prospero the Violet |
@@ -129,6 +133,7 @@ We loot his large sack of goods, as well as his giant eye and elephantine ears.
 # Session 10: Not Gonna Lie I Was Really Out Of It Writing This
 *21 May 2024*
 ### Player Characters
+
 | PC                      | Class and level | Player |
 | ----------------------- | --------------- | ------ |
 | Prospero the Violet     | Magic-User 2    | A.     |
@@ -138,6 +143,7 @@ We loot his large sack of goods, as well as his giant eye and elephantine ears.
 | Petra   | Dwarf 2   | KC   |
 
 ### Hirelings Brought Along
+
 | Hireling      | Class / Type | Employer            |
 | ------------- | ------------ | ------------------- |
 | Dame Losaneta | Fighter      | Prospero the Violet |
@@ -145,6 +151,7 @@ We loot his large sack of goods, as well as his giant eye and elephantine ears.
 | Mingus   | Bravo      | Wren     |
 
 ### Hirelings left at home
+
 | Hireling | Class/Type | Employer |
 | -------- | ---------- | -------- |
 | Pero     | Porter     | Wren     |

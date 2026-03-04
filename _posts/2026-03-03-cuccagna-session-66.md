@@ -11,7 +11,7 @@ Haven't written one of these in a while but I realized they help me focus so, wh
 
 | PCs | Class & Lvl | Player |
 |---|---|---|
-| Ditchbank | Rogue 5 | Mk. |
+| Ditchbank | Rogue 6 | Mk. |
 | Graciela the Good | Cleric 6 | B. |
 | Petra | Dwarf 4 | KC |
 | Simona the Gray | Magician 3 | A. |
@@ -80,7 +80,7 @@ Simona thinks this is all pretty cool and goes to speak with him. He tells her h
 
 Graciela intercedes and asks if he serves the God of Law. He says his only god of the road, and Graciela says she is the high priestess of the road. She tries to get him to sign her book (I think it's her church rolls or something) and he flirts with her, and they get in an argument over who has to kneel to whom. Graciela gives him an ultimatum asking if he's one of her boys or not.
 
-"Nay! Are you one my girls?!"
+"Nay! You are one of my girls."
 
 The argument intensifies in a predictable manner, until such a time as the knight pulls out a scepter, putting a spell of paralysis of her! He tells us to move on or face his blade.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cuccagna Sessions 66: Are You One of My Boys?"
+title: "Cuccagna Session 66(?): Are You One of My Boys?"
 date: 2026-03-03
 share: true
 ---

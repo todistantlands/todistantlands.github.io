@@ -27,5 +27,46 @@
     </div>
 
   </div>
+  
+<div class="webring webring--card" aria-label="Webring">
+  <div class="title"><a href="https://rootr.ing/">rootring</a></div>
+  <div class="links">
+    <a href="https://rootr.ing/prev?site=https://todistandlands.github.io">Prev</a>
+    <a href="https://rootr.ing/random">Random</a>
+    <a href="https://rootr.ing/directory">Ring</a>
+    <a href="https://rootr.ing/next?site=https://todistandlands.github.io">Next</a>
+  </div>
+</div>
+
+<style>
+  .webring--card {
+    margin-top: .5rem;
+    display: inline-block;
+    padding: .75rem .85rem .7rem;
+    border: 1px solid color-mix(in srgb, currentColor 28%, transparent);
+    border-radius: .35rem;
+    background: color-mix(in srgb, currentColor 5%, transparent);
+    min-width: 18rem;
+  }
+  .webring--card .title {
+    font-weight: 700;
+    margin-bottom: .45rem;
+    padding-bottom: .35rem;
+    border-bottom: 1px dashed color-mix(in srgb, currentColor 22%, transparent);
+    letter-spacing: .03em;
+    text-transform: lowercase;
+    font-size: .88rem;
+  }
+  .webring--card .links {
+    display: flex;
+    gap: .8rem;
+    flex-wrap: wrap;
+  }
+  .webring--card a {
+    text-decoration: none;
+    border-bottom: 1px solid color-mix(in srgb, currentColor 45%, transparent);
+  }
+  .webring--card a:hover { border-bottom-color: currentColor; }
+</style>
 
 </footer>
